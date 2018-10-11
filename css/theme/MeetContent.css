@@ -19,7 +19,9 @@
     }
 
 section.has-light-background {
-  color: #000; }
+  color: #000;
+  background: #fff;
+  background-color: #fff; }
 
 section.has-light-background h1, section.has-light-background h2, section.has-light-background h3 {
   color: #0000f9; }
@@ -37,8 +39,8 @@ section.has-light-background a:hover {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #0000f9;
-  background-color: #0000f9; }
+  background: #fff;
+  background-color: #fff; }
 
 .reveal {
   font-family: 'bariolregular', sans-serif;
