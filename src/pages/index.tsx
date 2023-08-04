@@ -3,23 +3,33 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
 import styles from './index.module.css';
+import GetTheBallRolling from '../components/GetTheBallRolling/GetTheBallRolling';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 className="hero__title">
+          {siteConfig.title} | {siteConfig.tagline}
+        </h1>
+        <p className="hero__subtitle">
+          MeetContent is a community of professionals working with
+          product-related content in tech and IT. We organize local meetups
+          where guests and members can share their knowledge and experience.
+        </p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro"
+            className={clsx(
+              'button',
+              'button--primary',
+              'button--lg',
+              styles.heroButton,
+            )}
+            href="https://mailchi.mp/9868d14a0c11/mc-signups"
           >
-            Docusaurus Tutorial - 5min ⏱️
+            Sign up for the newsletter
           </Link>
         </div>
       </div>
@@ -36,7 +46,7 @@ export default function Home(): JSX.Element {
     >
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <GetTheBallRolling />
       </main>
     </Layout>
   );

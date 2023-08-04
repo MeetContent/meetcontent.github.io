@@ -21,3 +21,13 @@
   align-items: center;
   justify-content: center;
 }
+
+.heroButton {
+  border: 1px solid white;
+}
+
+.heroButton:hover {
+  border: 1px solid var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+  background-color: white;
+}
