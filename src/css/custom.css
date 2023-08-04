@@ -48,3 +48,13 @@ h5,
 h6 {
   font-family: 'bariolregular', sans-serif;
 }
+
+.button--primary {
+  border: 1px solid white;
+}
+
+.button--primary:hover {
+  border: 1px solid var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+  background-color: white;
+}

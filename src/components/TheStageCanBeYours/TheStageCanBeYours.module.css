@@ -1,0 +1,16 @@
+.wrapper {
+  background-color: var(--ifm-color-primary);
+  color: white;
+}
+
+.callForSpeakers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 32px;
+}
+
+.callForSpeakers section {
+  max-width: 60ch;
+  padding: 16px;
+}

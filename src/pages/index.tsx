@@ -5,6 +5,8 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import styles from './index.module.css';
 import GetTheBallRolling from '../components/GetTheBallRolling/GetTheBallRolling';
+import TheStageCanBeYours from '../components/TheStageCanBeYours/TheStageCanBeYours';
+import LoveToTalk from '../components/LoveToTalk/LoveToTalk';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -21,12 +23,7 @@ function HomepageHeader() {
         </p>
         <div className={styles.buttons}>
           <Link
-            className={clsx(
-              'button',
-              'button--primary',
-              'button--lg',
-              styles.heroButton,
-            )}
+            className={clsx('button', 'button--primary', 'button--lg')}
             href="https://mailchi.mp/9868d14a0c11/mc-signups"
           >
             Sign up for the newsletter
@@ -47,6 +44,8 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <GetTheBallRolling />
+        <TheStageCanBeYours />
+        <LoveToTalk />
       </main>
     </Layout>
   );

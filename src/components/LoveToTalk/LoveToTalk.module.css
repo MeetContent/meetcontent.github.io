@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+  font-size: 120%;
+  padding: 0 16px;
+}
+
+.email {
+  font-size: 150%;
+}
