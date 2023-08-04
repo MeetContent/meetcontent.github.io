@@ -9,5 +9,13 @@
     "id: '[^\"]+'",
     "import .*;"
   ],
-  "cSpell.words": ["bariol", "bariolregular", "iefix", "meetcontent", "webfont"]
+  "cSpell.words": [
+    "bariol",
+    "bariolregular",
+    "Globis",
+    "iefix",
+    "meetcontent",
+    "PLFUG",
+    "webfont"
+  ]
 }
