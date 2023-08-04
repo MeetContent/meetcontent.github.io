@@ -4,6 +4,7 @@ Just a place to jot down ideas
 - Historia de la redacción técnica como profesión
 - Las escuelas y teorías detrás del ¨Technical Writing¨ (serie de posts) -- minimalismo, embudo de nuremberg, structured authoring...
 - Famosos redactores técnicos (serie de posts) -- Ted Chiang, George Saunders...
+- Comunicación técnica vs Redacción técnica
 - Redacción técnica y UX
 - Redacción técnica y ¨contenidos web¨ (SEO, marketing online...)
 - Redacción técnica y modelos IA (GPT, etc)
@@ -12,6 +13,7 @@ Just a place to jot down ideas
 - Redacción técnica y guías de estilo
 - Visualización de contenidos: layout de contenedores de información, ilustración técnica y contenidos audiovisuales
 - Conformidad legal y normas en la Comunicación Técnica
+- Clarificaciones terminológicas << Esto puede ser una sección fija de la página
 
 
 ## Meetup ideas:
