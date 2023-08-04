@@ -10,6 +10,8 @@ Just a place to jot down ideas
 - Redacción técnica y software editorial (Desktop publishing, CMS, DITA, docs as code...)
 - Redacción técnica y el uso del lenguaje
 - Redacción técnica y guías de estilo
+- Visualización de contenidos: layout de contenedores de información, ilustración técnica y contenidos audiovisuales
+- Conformidad legal y normas en la Comunicación Técnica
 
 
 ## Meetup ideas:
@@ -22,4 +24,5 @@ Just a place to jot down ideas
 - Redacción técnica y content audit (estrategias)
 - Redacción técnica y workflow (qué estrategias utiliza cada empresa para redactar sus contenidos desde que se desarrolla el producto hasta que el redactor técnico lo escribe)
 - Redacción técnica y end-user (clientes,external stakeholders..)
+- Cómo hacer comunidades de nichos minúsculos/desconocidos: ¿alguien propone ideas?
 
