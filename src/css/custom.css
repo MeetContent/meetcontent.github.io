@@ -1,30 +1,50 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
+@font-face {
+  font-family: 'bariolregular';
+  src: url('/fonts/bariol_regular-webfont.eot');
+  src:
+    url('/fonts/bariol_regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/bariol_regular-webfont.woff2') format('woff2'),
+    url('/fonts/bariol_regular-webfont.woff') format('woff'),
+    url('/fonts/bariol_regular-webfont.ttf') format('truetype'),
+    url('/fonts/bariol_regular-webfont.svg#bariolregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #0000f9;
+  --ifm-color-primary-dark: #0000d4;
+  --ifm-color-primary-darker: #0000b6;
+  --ifm-color-primary-darkest: #00007c;
+  --ifm-color-primary-light: #3d3dff;
+  --ifm-color-primary-lighter: #5454ff;
+  --ifm-color-primary-lightest: #6f6ffd;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #4d4dff;
+  --ifm-color-primary-dark: #3f3fe7;
+  --ifm-color-primary-darker: #3131d4;
+  --ifm-color-primary-darkest: #2222c0;
+  --ifm-color-primary-light: #6262ff;
+  --ifm-color-primary-lighter: #7171ff;
+  --ifm-color-primary-lightest: #8181fd;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+body {
+  font-family: 'bariolregular', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'bariolregular', sans-serif;
 }

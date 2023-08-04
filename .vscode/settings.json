@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.language": "en,pl,pl-PL,es,es-ES",
+  "cSpell.enableFiletypes": ["mdx"],
+  "cSpell.ignoreRegExpList": [
+    "(?<=\\[[^\\]]+\\])\\([^\\)]+\\)",
+    "href=\"[^\"]+\"",
+    "id: '[^\"]+'",
+    "import .*;"
+  ],
+  "cSpell.words": ["bariol", "bariolregular", "iefix", "meetcontent", "webfont"]
+}
