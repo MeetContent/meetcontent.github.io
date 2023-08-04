@@ -13,7 +13,7 @@ export default function GetTheBallRolling() {
             You’d like to breathe life into the content community in your city,
             but don’t know how? Set up your own MeetContent event! Get to know
             interesting people, share your expertise, and become a leader in
-            your area. To get in touch, simply drop us a line at
+            your area. To get in touch, simply drop us a line at{' '}
             <Link href="mailto:contact@meetcontent.org">
               contact@meetcontent.org
             </Link>

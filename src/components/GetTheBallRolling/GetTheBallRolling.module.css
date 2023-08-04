@@ -13,3 +13,8 @@
   color: white;
   font-size: 120%;
 }
+
+.mainCallToAction a {
+  color: white;
+  text-decoration: underline;
+}
