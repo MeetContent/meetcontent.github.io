@@ -13,13 +13,13 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">
-          {siteConfig.title} | {siteConfig.tagline}
+        <h1 className={clsx('hero__title', styles.title)}>
+          {siteConfig.title}
         </h1>
-        <p className="hero__subtitle">
-          MeetContent is a community of professionals working with
-          product-related content in tech and IT. We organize local meetups
-          where guests and members can share their knowledge and experience.
+        <p className={clsx('hero__subtitle', styles.subTitle)}>
+          A community of professionals working with product-related content in
+          tech and IT. We organize local meetups where guests and members can
+          share their knowledge and experience.
         </p>
         <div className={styles.buttons}>
           <Link
