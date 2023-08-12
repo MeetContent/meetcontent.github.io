@@ -3,7 +3,7 @@
   flex-direction: column;
   gap: 2em;
   align-items: center;
-  padding: 4em unset;
+  padding: 4em 1em;
 }
 
 .header {
