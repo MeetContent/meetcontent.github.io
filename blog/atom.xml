@@ -27,8 +27,18 @@ ipsum dolor sit amet</p>]]></content>
         <id>https://meetcontent.org/blog/new-site</id>
         <link href="https://meetcontent.org/blog/new-site"/>
         <updated>2023-08-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the new site!]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to the new site!</p><p>This site was created using Docusaurus and is fully self-hosted on GitHub.</p>]]></content>
+        <summary type="html"><![CDATA[This site was created using Docusaurus and is fully self-hosted on GitHub.]]></summary>
+        <content type="html"><![CDATA[<p>This site was created using Docusaurus and is fully self-hosted on GitHub.</p><p>You can host a site for free as well, thanks to GitHub pages. Well, I say free,
+but I guess all free services have a hidden cost. Irregardless, it's free in the
+sense that the monetary cost is zero.</p><p>In a nutshell here's how you can get there:</p><ol><li>Set up a repo on GitHub. If you want quick results, name your repo after your
+GitHub org, for example if your org is called "MeetContent", your repo should
+be called <code>meetcontent.github.io</code>.</li><li>Set up a site in your repo. If you want to go with Docusaurus, check out
+their <a href="https://docusaurus.io/docs/installation" target="_blank" rel="noopener noreferrer">getting started</a>.</li><li>To deploy your site, you need designate a branch where your built site will
+be deployed. The most common convention is to use a branch called <code>gh-pages</code>.
+<a href="https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site" target="_blank" rel="noopener noreferrer">Read more on GihBub</a>.</li><li>Set up your
+<a href="https://docusaurus.io/docs/deployment#deploying-to-github-pages" target="_blank" rel="noopener noreferrer">Docusaurus deployment through GitHub actions</a>.</li></ol><p>Your site will be available on your org's default web address, for example</p><p><a href="https://meetcontent.github.io" target="_blank" rel="noopener noreferrer">https://meetcontent.github.io</a></p><p>One big thing is that you get HTTPS for free!</p><p>If you want a custom domain, you can do that by pointing an external domain to
+your GitHub pages.
+<a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site" target="_blank" rel="noopener noreferrer">Read more about custom domains for GitHub pages</a>.</p>]]></content>
         <author>
             <name>Paweł Kowaluk</name>
             <uri>https://github.com/pensjonatus</uri>
