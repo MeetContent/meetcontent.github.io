@@ -3,7 +3,7 @@
   flex-direction: column;
   gap: 2em;
   align-items: center;
-  padding: 4em 0;
+  padding: 4em unset;
 }
 
 .header {
@@ -32,11 +32,19 @@ h1.title {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
   gap: 1em;
+  max-width: 100vw;
+}
+
+@media screen and (max-width: 996px) {
+  div.links {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 .links a {
-    font-size: 2em;
-    padding: 0.5em;
+  font-size: 2em;
+  padding: 0.5em;
 }
 
 .fullWidthLink {
