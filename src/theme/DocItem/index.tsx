@@ -21,7 +21,7 @@ export default function DocItem(props) {
         <h2>
           MeetContent {division} #{meetup_number}
         </h2>
-        <div>by {speakers.join(', ')}</div>
+        <div>by {speakers?.join(', ')}</div>
         <div>{location}</div>
         <time dateTime={date}>
           {new Date(date).toLocaleString('en-US', dateOptions)}

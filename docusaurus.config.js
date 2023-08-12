@@ -82,11 +82,23 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'events',
+            sidebarId: 'eventsKrakow',
             position: 'left',
-            label: 'Meetups',
+            label: 'Kraków',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          {
+            type: 'docSidebar',
+            sidebarId: 'eventsWroclaw',
+            position: 'left',
+            label: 'Wrocław',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'eventsIberia',
+            position: 'left',
+            label: 'Spain/Portugal',
+          },
+          { to: '/blog', label: 'Blog', position: 'right' },
           {
             href: githubLink,
             label: 'GitHub',

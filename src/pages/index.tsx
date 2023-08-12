@@ -17,18 +17,8 @@ function HomepageHeader() {
           {siteConfig.title}
         </h1>
         <p className={clsx('hero__subtitle', styles.subTitle)}>
-          A community of professionals working with product-related content in
-          tech and IT. We organize local meetups where guests and members can
-          share their knowledge and experience.
+          Meetup for technical content professionals
         </p>
-        <div className={styles.buttons}>
-          <Link
-            className={clsx('button', 'button--primary', 'button--lg')}
-            href="https://mailchi.mp/9868d14a0c11/mc-signups"
-          >
-            Sign up for the newsletter
-          </Link>
-        </div>
       </div>
     </header>
   );
