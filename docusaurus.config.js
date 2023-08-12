@@ -77,7 +77,7 @@ const config = {
         title: organizationName,
         logo: {
           alt: 'MeetContent Logo',
-          src: 'img/meet-content-blue.png',
+          src: 'img/meet-content-white.png',
         },
         items: [
           {
@@ -97,12 +97,6 @@ const config = {
             sidebarId: 'eventsIberia',
             position: 'left',
             label: 'Spain/Portugal',
-          },
-          { to: '/blog', label: 'Blog', position: 'right' },
-          {
-            href: githubLink,
-            label: 'GitHub',
-            position: 'right',
           },
         ],
       },

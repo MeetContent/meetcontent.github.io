@@ -2,6 +2,9 @@ import React from 'react';
 import styles from './TheStageCanBeYours.module.css';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
+import ConferenceSpeaker from './undraw_conference.svg';
+
+const imageSize = 300;
 
 export default function TheStageCanBeYours() {
   return (
@@ -10,7 +13,6 @@ export default function TheStageCanBeYours() {
     >
       <div className={clsx('container', styles.callForSpeakers)}>
         <section>
-          <h2>The stage can be yours</h2>
           <p>
             If you’d like to share your knowledge and experiences with the
             content community, become a speaker at MeetContent events. During
@@ -30,9 +32,9 @@ export default function TheStageCanBeYours() {
             Apply
           </Link>
         </section>
-        <img
-          src="/img/speaker.png"
-          alt=""
+        <ConferenceSpeaker
+          width={imageSize}
+          height={imageSize}
         />
       </div>
     </div>

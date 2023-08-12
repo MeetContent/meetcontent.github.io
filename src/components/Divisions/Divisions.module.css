@@ -1,0 +1,25 @@
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  padding-bottom: 2rem;
+}
+
+.card {
+  padding: 2rem;
+  background-color: var(--ifm-color-primary);
+  color: white;
+  text-align: center;
+}
+
+.card h2 {
+  font-size: 2.5rem;
+}
+
+.card:hover {
+  background-color: var(--ifm-color-primary);
+  color: white;
+  text-decoration: none;
+  transform: scale(1.01);
+  transition: smooth;
+}
