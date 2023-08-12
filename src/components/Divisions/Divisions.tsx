@@ -1,6 +1,7 @@
 import Link from '@docusaurus/Link';
 import React from 'react';
 import styles from './Divisions.module.css';
+import clsx from 'clsx';
 
 type DivisionProps = {
   name: string;
@@ -29,7 +30,7 @@ export default function Divisions() {
         {divisions.map(({ name, link }) => (
           <Link
             to={link}
-            className={styles.card}
+            className={clsx(styles.card, 'button', 'button--primary')}
             key={name}
           >
             <h2>

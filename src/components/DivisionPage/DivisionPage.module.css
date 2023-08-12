@@ -1,0 +1,44 @@
+.pageWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+  align-items: center;
+  padding: 4em 0;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  align-items: center;
+}
+
+h1.title {
+  margin-bottom: 0;
+  font-size: 3em;
+}
+
+.subtitle {
+  font-size: 1.2em;
+}
+
+.about {
+  font-size: 1.2em;
+  max-width: 60ch;
+}
+
+.links {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  gap: 1em;
+}
+
+.links a {
+    font-size: 2em;
+    padding: 0.5em;
+}
+
+.fullWidthLink {
+  grid-column: 1/3;
+}

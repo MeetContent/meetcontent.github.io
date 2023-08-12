@@ -6,6 +6,58 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const githubLink = 'https://github.com/MeetContent/meetcontent.github.io';
 const organizationName = 'MeetContent';
 
+function sortSidebarItemsByDate(items, idsWithDates) {
+  const result = items.map((item) => {
+    if (item.type === 'category') {
+      return { ...item, items: sortSidebarItemsByDate(item.items) };
+    }
+    return item;
+  });
+
+  result.sort((a, b) => {
+    const aDate = idsWithDates[a.id];
+    const bDate = idsWithDates[b.id];
+
+    return bDate - aDate;
+  });
+  return result;
+}
+
+async function sidebarItemsGenerator({
+  defaultSidebarItemsGenerator,
+  ...args
+}) {
+  const idsWithDates = [];
+  args.docs.forEach((doc) => {
+    idsWithDates[doc.id] = new Date(doc.frontMatter.date).getTime();
+  });
+
+  const sidebarItems = await defaultSidebarItemsGenerator(args);
+  return sortSidebarItemsByDate(sidebarItems, idsWithDates);
+}
+
+function getMenu(id, name) {
+  return {
+    label: name,
+    position: 'left',
+    items: [
+      {
+        label: 'About us',
+        to: id,
+      },
+      {
+        type: 'docSidebar',
+        sidebarId: `events${id.charAt(0).toUpperCase() + id.slice(1)}`,
+        label: 'Meetups',
+      },
+      {
+        label: 'Articles/Blog',
+        to: `blog/tags/${id}`,
+      },
+    ],
+  };
+}
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: organizationName,
@@ -48,6 +100,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/MeetContent/meetcontent.github.io/tree/main',
+          sidebarItemsGenerator,
         },
         blog: {
           showReadingTime: true,
@@ -82,24 +135,9 @@ const config = {
           srcDark: 'img/meet-content-white.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'eventsKrakow',
-            position: 'left',
-            label: 'Kraków',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'eventsWroclaw',
-            position: 'left',
-            label: 'Wrocław',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'eventsIberia',
-            position: 'left',
-            label: 'Spain/Portugal',
-          },
+          getMenu('krakow', 'Kraków'),
+          getMenu('wroclaw', 'Wrocław'),
+          getMenu('iberia', 'Iberia'),
         ],
       },
       footer: {

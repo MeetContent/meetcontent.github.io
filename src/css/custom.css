@@ -51,6 +51,7 @@ h6 {
 
 .button--primary {
   border: 1px solid white;
+  border-radius: 0;
 }
 
 .button--primary:hover {
