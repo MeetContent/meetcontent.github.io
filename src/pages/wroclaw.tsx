@@ -1,6 +1,5 @@
 import React from 'react';
 import DivisionPage from '../components/DivisionPage/DivisionPage';
-import Link from '@docusaurus/Link';
 
 export default function Wroclaw() {
   return (
