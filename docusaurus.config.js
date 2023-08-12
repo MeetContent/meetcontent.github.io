@@ -148,10 +148,6 @@ const config = {
             href: 'https://www.facebook.com/meetcontentcommunity/',
           },
           {
-            label: 'Meetup',
-            href: 'https://www.meetup.com/MeetContent/',
-          },
-          {
             label: 'Slack',
             href: 'https://join.slack.com/t/meetcontent/shared_invite/enQtNDUyNDI2ODY2MTEyLTJmMjkxMGYwZjgwOTJhYjNjMzU5MWVjODNkYmZiNThkMDE4MDQzOTA0ODRhZTM2MDRkNmRiMTE3NWM4MmU2NzI',
           },
