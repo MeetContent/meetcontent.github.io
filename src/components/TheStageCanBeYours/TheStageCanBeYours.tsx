@@ -12,6 +12,10 @@ export default function TheStageCanBeYours() {
       className={clsx(styles.wrapper, 'padding-top--lg', 'padding-bottom--lg')}
     >
       <div className={clsx('container', styles.callForSpeakers)}>
+        <ConferenceSpeaker
+          width={imageSize}
+          height={imageSize}
+        />
         <section>
           <p>
             If you’d like to share your knowledge and experiences with the
@@ -27,15 +31,11 @@ export default function TheStageCanBeYours() {
           <p>We’re also open to propositions of talks from other areas.</p>
           <Link
             href="https://goo.gl/forms/k0ksPd9J6RcE0JhE3"
-            className="button button--primary"
+            className="button button--secondary button--lg"
           >
             Apply
           </Link>
         </section>
-        <ConferenceSpeaker
-          width={imageSize}
-          height={imageSize}
-        />
       </div>
     </div>
   );
