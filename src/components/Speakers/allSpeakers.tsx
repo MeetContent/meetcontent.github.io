@@ -1,11 +1,7 @@
 import React from 'react';
+import { SpeakerProps } from './Speaker';
 
-type SpeakerInfo = {
-  name: string;
-  bio: JSX.Element;
-};
-
-export const speakers: SpeakerInfo[] = [
+export const allSpeakers: SpeakerProps[] = [
   {
     name: 'Marta Bartnicka',
     bio: (

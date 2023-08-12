@@ -1,0 +1,6 @@
+.wrapper {
+  margin-top: 2em;
+  background-color: var(--ifm-color-primary);
+  color: white;
+  padding: 3em 2em;
+}

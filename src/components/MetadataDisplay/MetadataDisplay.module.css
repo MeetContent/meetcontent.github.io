@@ -1,0 +1,19 @@
+.wrapper {
+  padding-bottom: 2em;
+}
+
+.title {
+  font-size: 2em;
+}
+
+.timeAndPlace {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+@media screen and (max-width: 996px) {
+  div.timeAndPlace {
+    gap: 6px;
+  }
+}

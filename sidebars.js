@@ -5,7 +5,7 @@ const sidebars = {
   eventsIberia: [
     {
       type: 'category',
-      label: 'Meetups',
+      label: 'Iberia meetups',
       link: {
         type: 'generated-index',
         title: 'MeetContent Iberia',
@@ -19,7 +19,7 @@ const sidebars = {
   eventsKrakow: [
     {
       type: 'category',
-      label: 'Meetups',
+      label: 'Kraków meetups',
       link: {
         type: 'generated-index',
         title: 'MeetContent Kraków',
@@ -33,7 +33,7 @@ const sidebars = {
   eventsWroclaw: [
     {
       type: 'category',
-      label: 'Meetups',
+      label: 'Wrocław meetups',
       link: {
         type: 'generated-index',
         title: 'MeetContent Wrocław',
