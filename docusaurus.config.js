@@ -5,6 +5,8 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const githubLink = 'https://github.com/MeetContent/meetcontent.github.io';
 const organizationName = 'MeetContent';
+const slackLink =
+  'https://join.slack.com/t/meetcontent/shared_invite/enQtNDUyNDI2ODY2MTEyLTJmMjkxMGYwZjgwOTJhYjNjMzU5MWVjODNkYmZiNThkMDE4MDQzOTA0ODRhZTM2MDRkNmRiMTE3NWM4MmU2NzI';
 
 function sortSidebarItemsByDate(items, idsWithDates) {
   const result = items.map((item) => {
@@ -20,6 +22,7 @@ function sortSidebarItemsByDate(items, idsWithDates) {
 
     return bDate - aDate;
   });
+
   return result;
 }
 
@@ -149,7 +152,7 @@ const config = {
           },
           {
             label: 'Slack',
-            href: 'https://join.slack.com/t/meetcontent/shared_invite/enQtNDUyNDI2ODY2MTEyLTJmMjkxMGYwZjgwOTJhYjNjMzU5MWVjODNkYmZiNThkMDE4MDQzOTA0ODRhZTM2MDRkNmRiMTE3NWM4MmU2NzI',
+            href: slackLink,
           },
           {
             label: 'Linkedin',
@@ -167,6 +170,9 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  customFields: {
+    slackLink,
+  },
 };
 
 module.exports = config;

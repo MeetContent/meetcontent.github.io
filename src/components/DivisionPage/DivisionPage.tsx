@@ -3,13 +3,14 @@ import Layout from '@theme/Layout';
 import React from 'react';
 import styles from './DivisionPage.module.css';
 import clsx from 'clsx';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 type DivisionPageProps = {
   name: string;
   description: string;
   about: JSX.Element;
   newsletterLink: string;
-  slackLink: string;
+  slackLink?: string;
   meetupsLink: string;
   blogLink: string;
 };
@@ -23,6 +24,9 @@ export default function DivisionPage({
   meetupsLink,
   blogLink,
 }: DivisionPageProps) {
+  const { siteConfig } = useDocusaurusContext();
+  const globalSlackLink = siteConfig.customFields.slackLink as string;
+
   return (
     <Layout
       title={name}
@@ -42,7 +46,7 @@ export default function DivisionPage({
             Join our newsletter
           </Link>
           <Link
-            href={slackLink}
+            href={slackLink || globalSlackLink}
             className={clsx('button', 'button--primary', styles.fullWidthLink)}
           >
             Join us on Slack

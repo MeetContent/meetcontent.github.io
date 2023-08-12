@@ -10,7 +10,6 @@ export default function Wroclaw() {
       blogLink="blog/tags/wroclaw"
       meetupsLink="events/wroclaw"
       newsletterLink=""
-      slackLink=""
     />
   );
 }

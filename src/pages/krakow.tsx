@@ -18,7 +18,6 @@ export default function Krakow() {
       blogLink="blog/tags/krakow"
       meetupsLink="events/krakow"
       newsletterLink=""
-      slackLink=""
     />
   );
 }

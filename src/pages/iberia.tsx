@@ -10,7 +10,6 @@ export default function Iberia() {
       blogLink="blog/tags/iberia"
       meetupsLink="events/iberia"
       newsletterLink=""
-      slackLink=""
     />
   );
 }
