@@ -141,6 +141,7 @@ const config = {
           getMenu('krakow', 'Kraków'),
           getMenu('wroclaw', 'Wrocław'),
           getMenu('iberia', 'Iberia'),
+          { to: '/blog', label: 'Blog', position: 'right' },
         ],
       },
       footer: {
