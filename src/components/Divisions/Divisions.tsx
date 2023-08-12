@@ -1,5 +1,4 @@
 import Link from '@docusaurus/Link';
-import clsx from 'clsx';
 import React from 'react';
 import styles from './Divisions.module.css';
 

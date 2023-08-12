@@ -71,6 +71,7 @@ const config = {
       colorMode: {
         defaultMode: 'light',
         disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
       navbar: {
         style: 'primary',
@@ -78,6 +79,7 @@ const config = {
         logo: {
           alt: 'MeetContent Logo',
           src: 'img/meet-content-white.png',
+          srcDark: 'img/meet-content-white.png',
         },
         items: [
           {
