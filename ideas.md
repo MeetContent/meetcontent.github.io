@@ -14,7 +14,8 @@ Just a place to jot down ideas
 - Visualización de contenidos: layout de contenedores de información, ilustración técnica y contenidos audiovisuales
 - Conformidad legal y normas en la Comunicación Técnica
 - Clarificaciones terminológicas << Esto puede ser una sección fija de la página
-- Crear contenido de calidad - The Ugly First Draft 
+- Crear contenido de calidad - The Ugly First Draft
+- Conocer a mi audiencia
 
 
 ## Meetup ideas:
