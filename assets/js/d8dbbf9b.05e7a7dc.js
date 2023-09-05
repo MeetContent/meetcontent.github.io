@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmeet_content=self.webpackChunkmeet_content||[]).push([[8181],{175:e=>{e.exports=JSON.parse('{"title":"MeetContent Iberia","description":"Meetups in Spain and Portugal","keywords":["iberia"],"slug":"/iberia","permalink":"/events/iberia","navigation":{"next":{"title":"MeetContent Iberia #1","permalink":"/events/iberia/coming-soon"}}}')}}]);
