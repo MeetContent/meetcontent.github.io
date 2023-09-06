@@ -14,6 +14,11 @@ MeetContent is currently active in:
 [Join us on Slack](https://join.slack.com/t/meetcontent/shared_invite/enQtNDUyNDI2ODY2MTEyLTJmMjkxMGYwZjgwOTJhYjNjMzU5MWVjODNkYmZiNThkMDE4MDQzOTA0ODRhZTM2MDRkNmRiMTE3NWM4MmU2NzI.)
 👈
 
+## Notes from and for members
+
+- [Ideas for MeetContent Iberia](MC_IBERIA_IDEAS.md)
+- [Glosario](MC_IBERIA_GLOSARIO.md) from MeetContent Iberia
+
 ## Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern
