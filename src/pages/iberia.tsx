@@ -1,6 +1,6 @@
 import React from 'react';
 import DivisionPage from '../components/DivisionPage/DivisionPage';
-import DivisionPageIberia from '../components/DivisionPage/DivisionPage';
+import DivisionPageIberia from '../components/DivisionPage/DivisionPageIberia';
 
 export default function Iberia() {
   return (
@@ -9,6 +9,7 @@ export default function Iberia() {
       description="Meetups en España y Portugal"
       about={<>
       Aquí viene nuestro texto. 1, 2, 3, probando...
+      <p>Aquí viene un párrafo</p>
       </>}
       blogLink="blog/tags/iberia"
       meetupsLink="events/iberia"
