@@ -139,19 +139,19 @@ export function DivisionPageIberia({
             href={slackLink || globalSlackLink}
             className={clsx('button', 'button--primary', styles.fullWidthLink)}
           >
-            Join us on Slack
+            Contacta con nosotros en Slack
           </Link>
           <Link
             to={meetupsLink}
             className="button button--primary"
           >
-            Learn about our meetups
+            Descubre nuestros Meetups
           </Link>
           <Link
             to={blogLink}
             className="button button--primary"
           >
-            Read our amazing articles
+            Consulta nuestros artículos
           </Link>
         </div>
       </div>
