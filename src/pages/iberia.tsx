@@ -8,7 +8,7 @@ export default function Iberia() {
       name="Iberia"
       description="Meetups en España y Portugal"
       about={<>
-      Aquí viene nuestro texto. 1, 2, 3, probando...
+      Aquí viene nuestro texto. 1, 2, 3, probando...test
       <p>Aquí viene un párrafo</p>
       </>}
       blogLink="blog/tags/iberia"
