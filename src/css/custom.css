@@ -63,6 +63,18 @@ h6 {
   background-color: white;
 }
 
+.button--primary--iberia {
+  border: 1px solid white;
+  border-radius: 0;
+  font-size: 1.5em;
+}
+
+.button--primary--iberia:hover {
+  border: 1px solid var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+  background-color: white;
+}
+
 .button-mailchimp-embed {
   clear: both;
   background-color: var(--contrast-color);
