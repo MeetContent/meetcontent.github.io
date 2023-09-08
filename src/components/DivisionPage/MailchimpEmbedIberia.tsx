@@ -126,7 +126,7 @@ export default function MailchimpEmbedIberia() {
                 </p>
               </div>
               <div className="content__gdprLegal">
-                <p style={{ margin: '0px', font-size: '12px'}}>
+                <p style={{ margin: '0px', fontSize: '12px'}}>
                   Usamos Mailchimp como nuestra plataforma de contacto. Al
                   suscribirte reconoces que tu información será compartida con
                   Mailchimp. En caso de duda,{' '}

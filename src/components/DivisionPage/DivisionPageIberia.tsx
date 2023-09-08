@@ -43,12 +43,6 @@ export default function DivisionPageIberia({
 
         <div className={styles.links}>
           <Link
-            href={slackLink || globalSlackLink}
-            className={clsx('button', 'button--primary', styles.fullWidthLink)}
-          >
-            Contacta con nosotros en Slack
-          </Link>
-          <Link
             to={meetupsLink}
             className="button button--primary"
           >
@@ -59,6 +53,12 @@ export default function DivisionPageIberia({
             className="button button--primary"
           >
             Consulta nuestros artículos
+          </Link>
+          <Link
+            href={slackLink || globalSlackLink}
+            className={clsx('button', 'button--primary', styles.fullWidthLink)}
+          >
+            Contacta con nosotros en Slack
           </Link>
         </div>
       </div>

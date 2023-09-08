@@ -37,7 +37,6 @@ export default function Divisions() {
               <div>MeetContent</div>
               <div>{name}</div>
             </h2>
-            <div>Learn more</div>
           </Link>
         ))}
       </div>
