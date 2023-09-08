@@ -88,4 +88,5 @@ h6 {
 
 .button-mailchimp-embed:hover {
   background-color: var(--ifm-color-primary);
+  color: #FFF;
 }
