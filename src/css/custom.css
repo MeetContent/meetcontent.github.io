@@ -90,3 +90,7 @@ h6 {
   background-color: var(--ifm-color-primary);
   color: #FFF;
 }
+
+#__docusaurus {
+  min-width: 100%;
+}
