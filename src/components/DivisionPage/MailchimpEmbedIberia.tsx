@@ -12,7 +12,7 @@ export default function MailchimpEmbedIberia() {
         type="text/css"
         dangerouslySetInnerHTML={{
           __html:
-            '\n        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px; max-width: 100% }\n        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.\n           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */\n    ',
+            '\n        #mc_embed_signup{background:#fff; false;clear:left; font-size:14px; max-width: 60ch }\n        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.\n           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */\n    ',
         }}
       />
       <style
@@ -53,7 +53,7 @@ export default function MailchimpEmbedIberia() {
                   name="Subscribe"
                   id="mc-embedded-subscribe"
                   className="button-mailchimp-embed"
-                  defaultValue="Me Suscribo!"
+                  defaultValue="Me Suscribo"
                 />
                 <p style={{ margin: '0px auto' }}>
                   <a
@@ -115,8 +115,7 @@ export default function MailchimpEmbedIberia() {
                       defaultValue="Y"
                     />
                     <span>
-                      Proporciono mi dirección de correo para recibir emails de
-                      parte de MeetContent Iberia
+                      Proporciono mi direccón para recibir emails de MeetContent Iberia
                     </span>
                   </label>
                 </fieldset>
@@ -127,7 +126,7 @@ export default function MailchimpEmbedIberia() {
                 </p>
               </div>
               <div className="content__gdprLegal">
-                <p style={{ margin: '0px' }}>
+                <p style={{ margin: '0px', font-size: '12px'}}>
                   Usamos Mailchimp como nuestra plataforma de contacto. Al
                   suscribirte reconoces que tu información será compartida con
                   Mailchimp. En caso de duda,{' '}
