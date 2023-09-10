@@ -32,7 +32,7 @@ const sidebars = {
           type: 'category',
           label: '2023',
           collapsed: false,
-          items: ['krakow/2023/15'],
+          items: ['krakow/2023/15', 'krakow/2023/14', 'krakow/2023/13'],
         },
         {
           type: 'category',

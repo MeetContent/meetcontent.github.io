@@ -333,4 +333,28 @@ export const allSpeakers: SpeakerProps[] = [
       </>
     ),
   },
+  {
+    name: 'Olga Stefaniuk',
+    bio: (
+      <>
+        Olga currently enjoys her work as a Developer Advocate at Box. She
+        gained her experience by working as a front-end Developer with a focus
+        on developing apps in the Vue.js framework and improving web
+        accessibility. She's also a leader in a non-profit organisation called
+        girls.js, which helps women learn the basics of JavaScript.
+      </>
+    ),
+  },
+  {
+    name: 'Barbara Czyż',
+    bio: (
+      <>
+        Barbara is a curious technical writer, passionate about the docs-as-code
+        approach and the API world. After her adventures with DITA and Markdown,
+        she joined Box to create developer documentation and tighten her
+        relationship with APIs and code. She is also the co-organizer of
+        MeetContentKRK.
+      </>
+    ),
+  },
 ];
