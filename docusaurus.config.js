@@ -40,25 +40,48 @@ async function sidebarItemsGenerator({
 }
 
 function getMenu(id, name) {
-  return {
-    label: name,
-    position: 'left',
-    items: [
-      {
-        label: 'About us',
-        to: id,
-      },
-      {
-        type: 'docSidebar',
-        sidebarId: `events${id.charAt(0).toUpperCase() + id.slice(1)}`,
-        label: 'Meetups',
-      },
-      {
-        label: 'Articles/Blog',
-        to: `blog/tags/${id}`,
-      },
-    ],
-  };
+  if (id == iberia) {
+    return {
+      label: name,
+      position: 'left',
+      items: [
+        {
+          label: 'Sobre nosotros',
+          to: id,
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: `events${id.charAt(0).toUpperCase() + id.slice(1)}`,
+          label: 'Meetups',
+        },
+        {
+          label: 'Artículos/Blog',
+          to: `blog/tags/${id}`,
+        },
+      ],
+    };
+  }
+  else {
+    return {
+      label: name,
+      position: 'left',
+      items: [
+        {
+          label: 'About us',
+          to: id,
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: `events${id.charAt(0).toUpperCase() + id.slice(1)}`,
+          label: 'Meetups',
+        },
+        {
+          label: 'Articles/Blog',
+          to: `blog/tags/${id}`,
+        },
+      ],
+    };
+  }
 }
 
 /** @type {import('@docusaurus/types').Config} */
@@ -141,7 +164,6 @@ const config = {
           getMenu('krakow', 'Kraków'),
           getMenu('wroclaw', 'Wrocław'),
           getMenu('iberia', 'Iberia'),
-          { to: '/blog', label: 'Blog', position: 'right' },
         ],
       },
       footer: {
