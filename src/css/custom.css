@@ -98,3 +98,9 @@ h6 {
 #__docusaurus {
   min-width: 100%;
 }
+
+.bio-picture {
+  max-width: 30%;
+  float: left;
+  margin-right: 1em;
+}
