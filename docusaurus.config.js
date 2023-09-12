@@ -40,7 +40,7 @@ async function sidebarItemsGenerator({
 }
 
 function getMenu(id, name) {
-  if (id == iberia) {
+  if (id == 'iberia') {
     return {
       label: name,
       position: 'left',
