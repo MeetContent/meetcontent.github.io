@@ -9,6 +9,13 @@ export default function Iberia() {
       description="Meetups en España y Portugal"
       about={
         <>
+            <p>
+              Aquí podemos poner el mission statement 😎
+            </p>
+        </>
+      }
+      team={
+        <>
           <h1>El equipo de MeetContent Iberia</h1>
           <div>
             <h2>Daniel Barrio Fierro</h2>

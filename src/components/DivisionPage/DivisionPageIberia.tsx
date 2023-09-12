@@ -10,6 +10,7 @@ type DivisionPageProps = {
   name: string;
   description: string;
   about: JSX.Element;
+  team: JSX.Element;
   newsletterLink: string;
   slackLink?: string;
   meetupsLink: string;
@@ -20,6 +21,7 @@ export default function DivisionPageIberia({
   name,
   description,
   about,
+  team,
   slackLink,
   meetupsLink,
   blogLink,
@@ -61,6 +63,8 @@ export default function DivisionPageIberia({
             Contacta con nosotros en Slack
           </Link>
         </div>
+
+        <div className={styles.about}>{team}</div>
       </div>
     </Layout>
   );
