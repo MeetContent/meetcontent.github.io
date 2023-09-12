@@ -115,7 +115,7 @@ h6 {
 }
 
 .bio-picture {
-  max-width: 30%;
+  max-height: 10em;
   margin-right: 1em;
   border-radius: 1em;
 }
