@@ -31,20 +31,20 @@ export default function Iberia() {
             </div>
           </div>
           <div className="bio-div">
-            <h2>Daniel Barrio Fierro</h2>
-            <div>
-            <img src="/img/iberia-daniel.jpg" alt="Daniel Barrio Fierro" className="bio-picture"/>
-            <p>
-              Daniel viene del mundo del software y tiene más de una década de experiencia en contenidos técnicos, incluyendo la creación de taxonomías para Google o la generación de documentación y herramientas de publicación en Nokia y Dolby. Es uno de los creadores del primer curso de postgrado de comunicación técnica en Polonia, y hasta 2020 fue coordinador de MeetContent Wrocław.
-            </p>
-            </div>
-          </div>
-          <div className="bio-div">
             <h2>Pablo de Eguileor</h2>
             <div>
             <img src="/img/iberia-pablo.jpg" alt="Pablo de Eguileor" className="bio-picture"/>
             <p>
             Generalista apasionado por las Publicaciones Técnicas y por crear el efecto ¡ajá! en el lector. +25 años en Comunicación Técnica ejerciendo todo tipo de funciones (redactor técnico, responsable de redacción, comercial de servicios de externalización, consultor y formador) y para diferentes tipos de sectores vinculados a fabricantes de producto físico (energía, maquinaria, automoción, electrónica, electrodoméstico, etc.).
+            </p>
+            </div>
+          </div>
+          <div className="bio-div">
+            <h2>Daniel Barrio Fierro</h2>
+            <div>
+            <img src="/img/iberia-daniel.jpg" alt="Daniel Barrio Fierro" className="bio-picture"/>
+            <p>
+              Daniel viene del mundo del software y tiene más de una década de experiencia en contenidos técnicos, incluyendo la creación de taxonomías para Google o la generación de documentación y herramientas de publicación en Nokia y Dolby. Es uno de los creadores del primer curso de postgrado de comunicación técnica en Polonia, y hasta 2020 fue coordinador de MeetContent Wrocław.
             </p>
             </div>
           </div>
