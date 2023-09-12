@@ -22,20 +22,20 @@ export default function Iberia() {
         <>
           <h1>El equipo de MeetContent Iberia</h1>
           <div className="bio-div">
-            <h2>Daniel Barrio Fierro</h2>
-            <div>
-            <img src="/img/iberia-daniel.jpg" alt="Daniel Barrio Fierro" className="bio-picture"/>
-            <p>
-              Daniel viene del mundo del software y tiene más de una década de experiencia en contenidos técnicos, incluyendo la creación de taxonomías para Google o la generación de documentación y herramientas de publicación en Nokia y Dolby. Daniel es uno de los creadores del primer curso de postgrado de comunicación técnica en Polonia, y hasta 2020 fue coordinador de MeetContent Wrocław.
-            </p>
-            </div>
-          </div>
-          <div className="bio-div">
             <h2>Sara Sánchez Ortiz</h2>
             <div>
             <img src="/img/iberia-sara.jpg" alt="Sara Sánchez" className="bio-picture"/>
             <p>
               Sara tiene experiencia en traducción y redacción técnica que abarca desde manuales técnicos hasta documentos de patentes y nuevas tecnologías, con un enfoque especial en el software. Actualmente desempeña un papel fundamental como Redactora Técnica en Omada, donde lidera el proyecto de Localización del software en ocho idiomas diferentes.
+            </p>
+            </div>
+          </div>
+          <div className="bio-div">
+            <h2>Daniel Barrio Fierro</h2>
+            <div>
+            <img src="/img/iberia-daniel.jpg" alt="Daniel Barrio Fierro" className="bio-picture"/>
+            <p>
+              Daniel viene del mundo del software y tiene más de una década de experiencia en contenidos técnicos, incluyendo la creación de taxonomías para Google o la generación de documentación y herramientas de publicación en Nokia y Dolby. Es uno de los creadores del primer curso de postgrado de comunicación técnica en Polonia, y hasta 2020 fue coordinador de MeetContent Wrocław.
             </p>
             </div>
           </div>
