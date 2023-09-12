@@ -7,6 +7,9 @@ export default function Iberia() {
     <DivisionPageIberia
       name="Iberia"
       description="Meetups en España y Portugal"
+      blogLink="blog/tags/iberia"
+      meetupsLink="events/iberia"
+      newsletterLink=""
       about={
         <>
           <h1>El equipo de MeetContent Iberia</h1>
@@ -26,9 +29,6 @@ export default function Iberia() {
           </div>
         </>
       }
-      blogLink="blog/tags/iberia"
-      meetupsLink="events/iberia"
-      newsletterLink=""
     />
   );
 }
