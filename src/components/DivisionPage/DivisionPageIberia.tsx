@@ -48,19 +48,19 @@ export default function DivisionPageIberia({
             to={meetupsLink}
             className="button button--primary button--iberia"
           >
-            Descubre nuestros Meetups
+            Sobre nuestros Meetups
           </Link>
           <Link
             to={blogLink}
             className="button button--primary button--iberia"
           >
-            Consulta nuestros artículos
+            Accede aquí a los artículos
           </Link>
           <Link
             href={slackLink || globalSlackLink}
             className={clsx('button', 'button--secondary', 'button--iberia', styles.fullWidthLink)}
           >
-            Contacta con nosotros en Slack
+            Únete a nosotros en Slack
           </Link>
         </div>
 

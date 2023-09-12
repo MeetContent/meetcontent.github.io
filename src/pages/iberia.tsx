@@ -10,7 +10,11 @@ export default function Iberia() {
       about={
         <>
             <p>
-              Aquí podemos poner el mission statement 😎
+            ¿Crees que la Redacción Técnica es un mundo de lobos solitarios?
+¿Te imaginas charlando en tu lengua sobre los retos que tienes para sacar tus contenidos adelante?
+¿Sabes que otras personas cerca de tí han pasado o están pasando por algo similar?</p>
+<p>Pues para eso está MeetContent Iberia: para que profesionales de la Comunicación Técnica de la península ibérica compartan sus conocimientos e inquietudes.</p>
+<p><b>¡Apúntate!</b> Te estamos esperando con los brazos abiertos.
             </p>
         </>
       }
@@ -29,6 +33,13 @@ export default function Iberia() {
             <img src="/img/iberia-sara.jpg" alt="Sara Sánchez" className="bio-picture"/>
             <p>
               Sara tiene experiencia en traducción y redacción técnica que abarca desde manuales técnicos hasta documentos de patentes y nuevas tecnologías, con un enfoque especial en el software. Actualmente desempeña un papel fundamental como Redactora Técnica en Omada, donde lidera el proyecto de Localización del software en ocho idiomas diferentes.
+            </p>
+          </div>
+          <div>
+            <h2>Pablo de Eguileor</h2>
+            <img src="/img/iberia-pablo.jpg" alt="Pablo de Eguileor" className="bio-picture"/>
+            <p>
+            Generalista apasionado por las Publicaciones Técnicas y por crear el efecto ¡ajá! en el lector. +25 años en Comunicación Técnica ejerciendo todo tipo de funciones (redactor técnico, responsable de redacción, comercial de servicios de externalización, consultor y formador) y para diferentes tipos de sectores vinculados a fabricantes de producto físico (energía, maquinaria, automoción, electrónica, electrodoméstico, etc.).
             </p>
           </div>
         </>
