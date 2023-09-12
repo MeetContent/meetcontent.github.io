@@ -26,7 +26,7 @@ export default function Iberia() {
             <div>
             <img src="/img/iberia-daniel.jpg" alt="Daniel Barrio Fierro" className="bio-picture"/>
             <p>
-              Daniel viene del mundo del software y tiene más de una década de experiencia en contenidos técnicos, incluyendo la creación de taxonomías para Google o la generación de documentación y herramientas de publicación en Nokia y Dolby. Hasta 2020 Daniel fue coordinador de MeetContent Wrocław y uno de los creadores del primer curso de postgrado de comunicación técnica en Polonia.
+              Daniel viene del mundo del software y tiene más de una década de experiencia en contenidos técnicos, incluyendo la creación de taxonomías para Google o la generación de documentación y herramientas de publicación en Nokia y Dolby. Daniel es uno de los creadores del primer curso de postgrado de comunicación técnica en Polonia, y hasta 2020 fue coordinador de MeetContent Wrocław.
             </p>
             </div>
           </div>
