@@ -17,10 +17,10 @@ export default function Iberia() {
             </p>
           </div>
           <div>
-            <h1>Sara Sánchez</h1>
+            <h1>Sara Sánchez Ortiz</h1>
             <img src="/img/iberia-sara.png" alt="Sara Sánchez" className="bio-picture"/>
             <p>
-              Sara tiene experiencia en traducción técnica, que abarca desde manuales técnicos hasta documentos de patentes y nuevas tecnologías, con un enfoque especial en el software. Actualmente desempeña un papel fundamental como Redactora Técnica en Omada, donde lidera el proyecto de Localización del software en ocho idiomas diferentes.
+              Sara tiene experiencia en traducción y redacción técnica que abarca desde manuales técnicos hasta documentos de patentes y nuevas tecnologías, con un enfoque especial en el software. Actualmente desempeña un papel fundamental como Redactora Técnica en Omada, donde lidera el proyecto de Localización del software en ocho idiomas diferentes.
             </p>
           </div>
         </>
