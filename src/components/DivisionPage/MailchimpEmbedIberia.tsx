@@ -4,7 +4,7 @@ const MailchimpForm = `
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
-        #mc_embed_signup{background:#fff; false;clear:left; font-size:1em; max-width: 60ch;}
+        #mc_embed_signup{background:#fff; false;clear:left; font-size:1.2em; max-width: 60ch;}
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style><style type="text/css">

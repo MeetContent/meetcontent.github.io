@@ -25,6 +25,7 @@ h1.title {
 .about {
   font-size: 1.2em;
   max-width: 60ch;
+  margin: 20px;
 }
 
 .links {
