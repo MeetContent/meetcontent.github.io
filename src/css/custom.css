@@ -120,3 +120,11 @@ h6 {
   border-radius: 1em;
   float: left;
 }
+
+.bio-div {
+  margin-bottom: 1em;
+}
+
+.bio-div p {
+  margin-bottom: 0px;
+}
