@@ -61,7 +61,7 @@ h6 {
 
 .button--secondary {
   border: 1px solid var(--ifm-color-primary);
-  color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary) !important;
   background-color: white;
   border-radius: 0;
 }
@@ -74,7 +74,7 @@ h6 {
 
 .button--secondary:hover {
   border: 1px solid white;
-  color: white;
+  color: white !important;
   background-color: var(--ifm-color-primary);
 }
 
