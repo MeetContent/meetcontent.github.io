@@ -9,17 +9,21 @@ export default function Iberia() {
       description="Meetups en España y Portugal"
       about={
         <>
-          <h1>Daniel Barrios</h1>
-          <p>
-            Daniel viene del mundo del software. Lleva trabajando más de una década en contenidos técnicos, desde la creación de taxonomías para Google a la creación de documentación y herramientas de publicación en Nokia o Dolby. Hasta 2020 Daniel fue coordinador de MeetContent Wrocław, y fue uno de los creadores del primer curso de postgrado de comunicación técnica en Polonia.
-          </p>
-          <img src="iberia-daniel.jpg" alt="DanielBarrios" />
+          <div>
+            <h1>Daniel Barrios</h1>
+            <img src="iberia-daniel.jpg" alt="Daniel Barrios" />
+            <p>
+              Daniel viene del mundo del software y tiene más de una década de experiencia en contenidos técnicos, que incluye la creación de taxonomías para Google, la generación de documentación y herramientas de publicación en empresas como Nokia y Dolby. Hasta 2020, Daniel fue coordinador de MeetContent Wrocław y uno de los creadores del primer curso de postgrado de comunicación técnica en Polonia.
+            </p>
+          </div>
+          <div>
+            <h2>Sara Sánchez</h2>
+            <img src="iberia-sara.jpg" alt="Sara Sánchez" />
+            <p>
+              Sara tiene experiencia en traducción técnica, que abarca desde manuales técnicos hasta documentos de patentes y nuevas tecnologías, con un enfoque especial en el software. Actualmente, desempeña un papel fundamental como Redactora Técnica en Omada, donde lidera el proyecto de Localización del software en ocho idiomas diferentes.
+            </p>
+          </div>
         </>
-         <h2>Sara Sánchez</h2>
-        <img src="iberia-sara.jpg" alt="SaraSánchez" />
-          <p>
-           Sara posee experiencia en el ámbito de la traducción técnica, abarcando desde manuales técnicos hasta documentos de patentes, así como nuevas tecnologías, con un enfoque particular en el software. Actualmente, desempeña un papel fundamental como Redactora Técnica en Omada, donde lidera el proyecto de Localización del software en ocho idiomas diferentes.
-          </p>
       }
       blogLink="blog/tags/iberia"
       meetupsLink="events/iberia"
