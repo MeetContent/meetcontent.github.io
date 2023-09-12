@@ -4,7 +4,7 @@ const MailchimpForm = `
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
-        #mc_embed_signup{background:#fff; false;clear:left; font-size:14px; max-width: 60ch;}
+        #mc_embed_signup{background:#fff; false;clear:left; font-size:1em; max-width: 60ch;}
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style><style type="text/css">
@@ -31,7 +31,7 @@ const MailchimpForm = `
                 <p style="margin: 0px auto;"><a href="http://eepurl.com/ixVaz2" title="Mailchimp: marketing por correo electrónico fácil y divertido"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
             </div>
         </div>
-        <div class="content__gdprLegal"><p style="margin:0px;font-size:12px">Usamos Mailchimp como nuestra plataforma de contacto. Al suscribirte reconoces que tu información será compartida con Mailchimp. En caso de duda, <a href="https://mailchimp.com/legal/terms">consulta la política de privacidad de Mailchimp</a>.</p></div>
+        <div class="content__gdprLegal"><p style="margin:0px;font-size: 0.8em">Usamos Mailchimp como nuestra plataforma de contacto. Al suscribirte reconoces que tu información será compartida con Mailchimp. En caso de duda, <a href="https://mailchimp.com/legal/terms">consulta la política de privacidad de Mailchimp</a>.</p></div>
     </div>
 </form>
 </div>
