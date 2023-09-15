@@ -261,18 +261,6 @@ export const allSpeakers: SpeakerProps[] = [
     ),
   },
   {
-    name: 'Daniel Barrio Fierro',
-    bio: (
-      <>
-        Daniel is proud to lead the Technical Communications team at Dolby
-        Poland, helping anyone working with their products to clearly know how
-        to accomplish their tasks. Information architect by trade, linguist by
-        education, Daniel’s eyes twinkle when hearing the words “systems
-        thinking”.
-      </>
-    ),
-  },
-  {
     name: 'Marcelina Haftka',
     bio: (
       <>
@@ -354,6 +342,30 @@ export const allSpeakers: SpeakerProps[] = [
         she joined Box to create developer documentation and tighten her
         relationship with APIs and code. She is also the co-organizer of
         MeetContentKRK.
+      </>
+    ),
+  },
+  {
+    name: 'Daniel Barrio Fierro',
+    bio: (
+      <>
+        Daniel viene del mundo del software y tiene más de una década de experiencia en contenidos técnicos, incluyendo la creación de taxonomías para Google o la generación de documentación y herramientas de publicación en Nokia y Dolby. Es uno de los creadores del primer curso de postgrado de comunicación técnica en Polonia, y hasta 2020 fue coordinador de MeetContent Wrocław.
+      </>
+    ),
+  },
+  {
+    name: 'Pablo de Eguileor Astigarraga',
+    bio: (
+      <>
+        Generalista apasionado por las Publicaciones Técnicas y por crear el efecto ¡ajá! en el lector. +25 años en Comunicación Técnica ejerciendo todo tipo de funciones (redactor técnico, responsable de redacción, comercial de servicios de externalización, consultor y formador) y para diferentes tipos de sectores vinculados a fabricantes de producto físico (energía, maquinaria, automoción, electrónica, electrodoméstico, etc.).
+      </>
+    ),
+  },
+  {
+    name: 'Sara Sánchez Ortiz',
+    bio: (
+      <>
+        Sara tiene experiencia en traducción y redacción técnica que abarca desde manuales técnicos hasta documentos de patentes y nuevas tecnologías, con un enfoque especial en el software. Actualmente desempeña un papel fundamental como Redactora Técnica en Omada, donde lidera el proyecto de Localización del software en ocho idiomas diferentes.
       </>
     ),
   },
