@@ -3,7 +3,7 @@ import OriginalDocItem from '@theme-original/DocItem';
 import MetadataDisplay from '@site/src/components/MetadataDisplay/MetadataDisplay';
 
 type EventMetadataProps = {
-  division: 'KRK' | 'WRO' | 'IBE';
+  division: 'KRK' | 'WRO' | 'Iberia';
   meetup_number: number;
   speakers: string[];
   location: string;
