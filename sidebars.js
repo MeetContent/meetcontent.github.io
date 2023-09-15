@@ -5,11 +5,11 @@ const sidebars = {
   eventsIberia: [
     {
       type: 'category',
-      label: 'Iberia meetups',
+      label: 'Meetups España/Portugal',
       link: {
         type: 'generated-index',
         title: 'MeetContent Iberia',
-        description: 'Meetups in Spain and Portugal',
+        description: 'Aquí tienes información sobre nuestros meetups futuros, presentes, y pasados.',
         slug: '/iberia',
         keywords: ['iberia'],
       },
