@@ -178,8 +178,12 @@ const config = {
             href: slackLink,
           },
           {
-            label: 'Linkedin',
+            label: 'LinkedIn (KRK, WRO)',
             href: 'https://www.linkedin.com/company/17989901/',
+          },
+          {
+            label: 'LinkedIn (Iberia)',
+            href: 'https://www.linkedin.com/company/100016156/',
           },
           {
             label: 'GitHub',
