@@ -4,15 +4,15 @@
         <title>MeetContent Blog</title>
         <link>https://meetcontent.org/blog</link>
         <description>MeetContent Blog</description>
-        <lastBuildDate>Sat, 12 Aug 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Hola, MeetContent Iberia (TEST)]]></title>
+            <title><![CDATA[Hola, mundo]]></title>
             <link>https://meetcontent.org/blog/iberia-welcome-test</link>
             <guid>https://meetcontent.org/blog/iberia-welcome-test</guid>
-            <pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Sara y Daniel están probando esto.]]></description>
             <content:encoded><![CDATA[<p>Sara y Daniel están probando esto.</p><p>A ver que pasa.</p>]]></content:encoded>
             <category>iberia</category>
@@ -36,7 +36,6 @@ your GitHub pages.
 <a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site" target="_blank" rel="noopener noreferrer">Read more about custom domains for GitHub pages</a>.</p>]]></content:encoded>
             <category>wroclaw</category>
             <category>krakow</category>
-            <category>iberia</category>
         </item>
         <item>
             <title><![CDATA[Plans for Wrocław, autumn 2023]]></title>

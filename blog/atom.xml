@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meetcontent.org/blog</id>
     <title>MeetContent Blog</title>
-    <updated>2023-08-12T00:00:00.000Z</updated>
+    <updated>2023-09-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meetcontent.org/blog"/>
     <subtitle>MeetContent Blog</subtitle>
     <icon>https://meetcontent.org/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Hola, MeetContent Iberia (TEST)]]></title>
+        <title type="html"><![CDATA[Hola, mundo]]></title>
         <id>https://meetcontent.org/blog/iberia-welcome-test</id>
         <link href="https://meetcontent.org/blog/iberia-welcome-test"/>
-        <updated>2023-08-12T00:00:00.000Z</updated>
+        <updated>2023-09-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sara y Daniel están probando esto.]]></summary>
         <content type="html"><![CDATA[<p>Sara y Daniel están probando esto.</p><p>A ver que pasa.</p>]]></content>
         <author>
-            <name>Daniel Barrio</name>
+            <name>Daniel Barrio Fierro</name>
             <uri>https://github.com/db4rr</uri>
         </author>
         <category label="iberia" term="iberia"/>
@@ -43,7 +43,6 @@ your GitHub pages.
         </author>
         <category label="wroclaw" term="wroclaw"/>
         <category label="krakow" term="krakow"/>
-        <category label="iberia" term="iberia"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Plans for Wrocław, autumn 2023]]></title>
