@@ -1,7 +1,7 @@
 ---
 slug: iberia-welcome-test
 title: Hola, mundo
-authors: db4rr, sara
+authors: db4rr
 tags: [iberia]
 ---
 
