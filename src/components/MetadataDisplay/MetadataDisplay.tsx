@@ -48,7 +48,7 @@ export default function MetadataDisplay() {
         <div>by {speakers?.join(', ')}</div>
         <div className={styles.timeAndPlace}>
           <div>{location}</div>
-          </strong><time dateTime={date}>
+          <strong><time dateTime={date}>
             {new Date(date).toLocaleString('en-US', dateOptions)}
           </time></strong>
         </div>
