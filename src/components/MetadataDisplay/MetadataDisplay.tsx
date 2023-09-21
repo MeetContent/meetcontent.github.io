@@ -23,19 +23,37 @@ export default function MetadataDisplay() {
 
   const { division, meetup_number, speakers, location, date } = eventMetadata;
 
-  return (
-    <div className={styles.wrapper}>
-      <div className={styles.title}>
-        MeetContent {division} #{meetup_number}
+  if (eventMetadata.division == 'Iberia') {
+    return (
+      <div className={styles.wrapper}>
+        <div className={styles.title}>
+          MeetContent {division} #{meetup_number}
+        </div>
+        <div>Organizado por {speakers?.join(', ')}</div>
+        <div className={styles.timeAndPlace}>
+          <div>{location}</div>
+          <time dateTime={date}>
+            {new Date(date).toLocaleString('es-ES', dateOptions)}
+          </time>
+        </div>
+        {/* <RegisterButton /> */}
       </div>
-      <div>by {speakers?.join(', ')}</div>
-      <div className={styles.timeAndPlace}>
-        <div>{location}</div>
-        <time dateTime={date}>
-          {new Date(date).toLocaleString('en-US', dateOptions)}
-        </time>
+    );
+  } else {
+    return (
+      <div className={styles.wrapper}>
+        <div className={styles.title}>
+          MeetContent {division} #{meetup_number}
+        </div>
+        <div>by {speakers?.join(', ')}</div>
+        <div className={styles.timeAndPlace}>
+          <div>{location}</div>
+          <time dateTime={date}>
+            {new Date(date).toLocaleString('en-US', dateOptions)}
+          </time>
+        </div>
+        {/* <RegisterButton /> */}
       </div>
-      {/* <RegisterButton /> */}
-    </div>
-  );
+    );
+  }
 }

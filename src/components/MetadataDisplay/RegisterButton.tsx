@@ -9,13 +9,26 @@ export default function RegisterButton() {
     return null;
   }
 
-  return (
-    <Link
-      className="button button--contrast button--lg"
-      href={eventMetadata.registration_link}
-      style={{ marginTop: '2em' }}
-    >
-      Register {eventMetadata.division}
-    </Link>
-  );
+  if (eventMetadata.division == 'Iberia') {
+    return (
+      <Link
+        className="button button--contrast button--lg"
+        href={eventMetadata.registration_link}
+        style={{ marginTop: '2em' }}
+      >
+        Me Apunto
+      </Link>
+    );
+  } else{ 
+    return (
+      <Link
+        className="button button--contrast button--lg"
+        href={eventMetadata.registration_link}
+        style={{ marginTop: '2em' }}
+      >
+        Register
+      </Link>
+    );
+  }
+  
 }
