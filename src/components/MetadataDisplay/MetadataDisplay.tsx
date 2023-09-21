@@ -32,9 +32,9 @@ export default function MetadataDisplay() {
         <div>Organizado por {speakers?.join(', ')}</div>
         <div className={styles.timeAndPlace}>
           <div>{location}</div>
-          <time dateTime={date}>
+          <strong><time dateTime={date}>
             {new Date(date).toLocaleString('es-ES', dateOptions)}
-          </time>
+          </time></strong>
         </div>
         {/* <RegisterButton /> */}
       </div>
@@ -48,9 +48,9 @@ export default function MetadataDisplay() {
         <div>by {speakers?.join(', ')}</div>
         <div className={styles.timeAndPlace}>
           <div>{location}</div>
-          <time dateTime={date}>
+          </strong><time dateTime={date}>
             {new Date(date).toLocaleString('en-US', dateOptions)}
-          </time>
+          </time></strong>
         </div>
         {/* <RegisterButton /> */}
       </div>
