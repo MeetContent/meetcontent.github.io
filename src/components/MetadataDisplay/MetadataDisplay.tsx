@@ -35,7 +35,7 @@ export default function MetadataDisplay() {
           {new Date(date).toLocaleString('en-US', dateOptions)}
         </time>
       </div>
-      <RegisterButton />
+      {/* <RegisterButton /> */}
     </div>
   );
 }

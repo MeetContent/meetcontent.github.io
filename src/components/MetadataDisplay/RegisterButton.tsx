@@ -11,11 +11,11 @@ export default function RegisterButton() {
 
   return (
     <Link
-      className="button button--primary button--lg"
+      className="button button--contrast button--lg"
       href={eventMetadata.registration_link}
       style={{ marginTop: '2em' }}
     >
-      Register
+      Register {eventMetadata.division}
     </Link>
   );
 }

@@ -58,6 +58,13 @@ h6 {
   border-radius: 0;
 }
 
+.button--contrast {
+  border: 1px solid white;
+  border-radius: 0;
+  background-color: var(--contrast-color);
+  color: var(--ifm-color-primary);
+}
+
 .button--secondary {
   border: 1px solid var(--ifm-color-primary);
   color: var(--ifm-color-primary) !important;
@@ -69,6 +76,12 @@ h6 {
   border: 1px solid var(--ifm-color-primary);
   color: var(--ifm-color-primary);
   background-color: white;
+}
+
+.button--contrast:hover {
+  border: 1px solid var(--ifm-color-primary);
+  color: white;
+  background-color: var(--ifm-color-primary);
 }
 
 .button--secondary:hover {
