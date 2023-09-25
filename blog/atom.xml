@@ -12,8 +12,9 @@
         <id>https://meetcontent.org/blog/iberia-welcome-test</id>
         <link href="https://meetcontent.org/blog/iberia-welcome-test"/>
         <updated>2023-09-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sara y Daniel están probando esto.]]></summary>
-        <content type="html"><![CDATA[<p>Sara y Daniel están probando esto.</p><p>A ver que pasa.</p>]]></content>
+        <summary type="html"><![CDATA[Hola, mundo:]]></summary>
+        <content type="html"><![CDATA[<p>Hola, mundo:</p><p>¿Estás preparado para unirte a MeetContent Iberia? ¡Pues aquí tienes nuestro primer evento online!
+Pero antes de unirte querrás saber que es MeetContent Iberia ¿verdad? Pues bien, MeetContent Iberia es un lugar donde poder compartir conocimientos,  experiencias y conocer más sobre este mundo tan apasionante de la comunicación técnica.</p><p>En este primer evento online os explicaremos más sobre MeetContent Iberia y haremos una <em>roundtable</em> para conocer experiencias de aquellos que participen y quieran compartir. </p><p>Únete también a nuestra Newsletter para mantenerte informado/a y no perderte ningún evento.</p>]]></content>
         <author>
             <name>Daniel Barrio Fierro</name>
             <uri>https://github.com/db4rr</uri>
