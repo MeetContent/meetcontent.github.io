@@ -31,5 +31,5 @@ También queremos establecer un espacio para publicar [artículos](https://meetc
 
 Y si quieres contactar con cualquiera de los miembros de la comunidad MeetContent, puedes unirte a nuestros [canales de Slack](https://join.slack.com/t/meetcontent/shared_invite/enQtNDUyNDI2ODY2MTEyLTJmMjkxMGYwZjgwOTJhYjNjMzU5MWVjODNkYmZiNThkMDE4MDQzOTA0ODRhZTM2MDRkNmRiMTE3NWM4MmU2NzI).
 
-**¿Estás listo para conocernos?** Apúntate a [nuestro primer evento online](https://meetcontent.github.io/events/iberia/1) el XX de Octubre a las 18:00.
+**¿Estás listo para conocernos?** Apúntate a [nuestro primer evento online](https://meetcontent.github.io/events/iberia/1) el 19 de Octubre a las 18:00.
 Te esperamos con los brazos abiertos.
