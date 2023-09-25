@@ -7,6 +7,7 @@ const githubLink = 'https://github.com/MeetContent/meetcontent.github.io';
 const organizationName = 'MeetContent';
 const slackLink =
   'https://join.slack.com/t/meetcontent/shared_invite/enQtNDUyNDI2ODY2MTEyLTJmMjkxMGYwZjgwOTJhYjNjMzU5MWVjODNkYmZiNThkMDE4MDQzOTA0ODRhZTM2MDRkNmRiMTE3NWM4MmU2NzI';
+const linkedInIberia = 'https://www.linkedin.com/company/100016156/'
 
 function sortSidebarItemsByDate(items, idsWithDates) {
   const result = items.map((item) => {
@@ -199,7 +200,28 @@ const config = {
     }),
   customFields: {
     slackLink,
+    linkedInIberia,
   },
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'blog-iberia',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'iberia',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './blog-iberia',
+      },
+    ],
+  ],
 };
 
 module.exports = config;

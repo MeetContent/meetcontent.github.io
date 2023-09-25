@@ -57,7 +57,7 @@ export default function DivisionPageIberia({
             Accede aquí a los artículos
           </Link>
           <Link
-            href="https://www.linkedin.com/company/100016156/"
+            href={linkedInIberia}
             className={clsx('button', 'button--secondary', 'button--iberia', styles.fullWidthLink)}
           >
             Síguenos en Linkedin
