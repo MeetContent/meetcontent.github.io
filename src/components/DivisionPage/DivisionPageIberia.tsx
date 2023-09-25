@@ -15,6 +15,7 @@ type DivisionPageProps = {
   slackLink?: string;
   meetupsLink: string;
   blogLink: string;
+  linkedInIberia?: string;
 };
 
 export default function DivisionPageIberia({
@@ -25,6 +26,7 @@ export default function DivisionPageIberia({
   slackLink,
   meetupsLink,
   blogLink,
+  linkedInIberia,
 }: DivisionPageProps) {
   const { siteConfig } = useDocusaurusContext();
   const globalSlackLink = siteConfig.customFields.slackLink as string;
