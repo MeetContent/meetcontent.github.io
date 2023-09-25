@@ -33,5 +33,3 @@ Y si quieres contactar con cualquiera de los miembros de la comunidad MeetConten
 
 **¿Estás listo para conocernos?** Apúntate a [nuestro primer evento online](https://meetcontent.github.io/events/iberia/1) el XX de Octubre a las 18:00.
 Te esperamos con los brazos abiertos.
-
-

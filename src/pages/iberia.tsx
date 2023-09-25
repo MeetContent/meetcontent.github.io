@@ -13,7 +13,7 @@ export default function Iberia() {
             ¿Crees que la Redacción Técnica es un mundo de lobos solitarios?
 ¿Te imaginas charlando en tu lengua sobre los retos que tienes para sacar tus contenidos adelante?
 ¿Sabes que otras personas cerca de tí han pasado o están pasando por algo similar?</p>
-<p>Pues para eso está MeetContent Iberia: para que profesionales y personas interesadas en Comunicación Técnica de la península ibérica compartan sus conocimientos e inquietudes.</p>
+<p>Pues para eso está MeetContent Iberia: para que profesionales y personas interesadas en Comunicación Técnica de la península ibérica compartan sus conocimientos e inquietudes. <a href="https://meetcontent.github.io/blog/iberia-hola-mundo">Aquí</a> puedes conocer más acerca de nuestra misión.</p>
 <p><b>¡Apúntate!</b> Te estamos esperando con los brazos abiertos.
             </p>
         </>

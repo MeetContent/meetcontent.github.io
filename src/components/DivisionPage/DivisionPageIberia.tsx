@@ -57,6 +57,12 @@ export default function DivisionPageIberia({
             Accede aquí a los artículos
           </Link>
           <Link
+            href="https://www.linkedin.com/company/100016156/"
+            className={clsx('button', 'button--secondary', 'button--iberia', styles.fullWidthLink)}
+          >
+            Síguenos en Linkedin
+          </Link>
+          <Link
             href={slackLink || globalSlackLink}
             className={clsx('button', 'button--secondary', 'button--iberia', styles.fullWidthLink)}
           >
