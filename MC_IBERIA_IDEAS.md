@@ -33,5 +33,21 @@ Cada uno nos presentamos, y así vemos viendo el panorama y la realidad a la que
 - ¿Cómo conseguir ser redactor técnico en España? (roundtable, cursos..)
 - Redacción técnica y content audit (estrategias)
 - Redacción técnica y workflow (qué estrategias utiliza cada empresa para redactar sus contenidos desde que se desarrolla el producto hasta que el redactor técnico lo escribe)
-- Redacción técnica y end-user (clientes,external stakeholders..)
+- Redacción técnica y end-user (clientes, external stakeholders..)
 - Cómo hacer comunidades de nichos minúsculos/desconocidos: ¿alguien propone ideas?
+
+
+## Meetup #1
+
+- Presentamos la comunidad de práctica, y nos presentamos nosotros mismos
+- Pedirles que todos escriban en el chat una pequeña invitación -- así va a quedar ahí por si quieren tomar contacto después de la mesa redonda. Nosotros (organizadores) nos quedaremos en linea hasta que el ultimo de ellos deje la reunión.
+- Si somos muchos: separamos en grupos de 5
+- Si somos pocos: todos nos presentamos en la sala principal
+
+Preguntas para discusión:
+- ¿Cuál es tu experiencia con la comunicación y redacción técnica?
+- ¿Cómo entraste en este campo de trabajo?
+- ¿Qué clase de conocimientos echas más en falta?
+- ¿Qué perfil de personas te gustaría conocer?
+
+- Al cerrar compartimos una encuesta, esta encuesta la compartimos en linkedin, y hacemos otro articulo en el blog.

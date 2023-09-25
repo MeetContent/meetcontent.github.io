@@ -13,14 +13,14 @@ export default function Iberia() {
             ¿Crees que la Redacción Técnica es un mundo de lobos solitarios?
 ¿Te imaginas charlando en tu lengua sobre los retos que tienes para sacar tus contenidos adelante?
 ¿Sabes que otras personas cerca de tí han pasado o están pasando por algo similar?</p>
-<p>Pues para eso está MeetContent Iberia: para que profesionales de la Comunicación Técnica de la península ibérica compartan sus conocimientos e inquietudes.</p>
+<p>Pues para eso está MeetContent Iberia: para que profesionales y personas interesadas en Comunicación Técnica de la península ibérica compartan sus conocimientos e inquietudes.</p>
 <p><b>¡Apúntate!</b> Te estamos esperando con los brazos abiertos.
             </p>
         </>
       }
       team={
         <>
-          <h1>El equipo de MeetContent Iberia</h1>
+          <h1 id="team-title">El equipo de MeetContent Iberia</h1>
           <div className="bio-div">
             <h2>Sara Sánchez Ortiz</h2>
             <div>
