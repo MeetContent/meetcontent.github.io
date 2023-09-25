@@ -12,4 +12,4 @@ Pero antes de unirte querrás saber qué es MeetContent Iberia ¿verdad? Pues bi
 
 En este primer evento online os explicaremos más sobre MeetContent Iberia y haremos una _roundtable_ para conocer experiencias de aquellos que participen y quieran compartir. 
 
-Únete también a nuestra Newsletter para mantenerte informado/a y no perderte ningún evento.
+Únete también a nuestra newsletter para mantenerte informado/a y no perderte ningún evento.
