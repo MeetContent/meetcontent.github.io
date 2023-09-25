@@ -9,11 +9,11 @@ Todos sabemos la importancia del aprendizaje y el crecimiento constante en el mu
 
 Cuando [Sara, Pablo y Daniel](https://meetcontent.github.io/iberia#team-title) nos conocimos, nos dimos cuenta de que echábamos en falta una comunidad de práctica como las que habíamos visto en Europa o Estados Unidos. Por eso nos decidimos a poner en marcha [MeetContent Iberia](https://meetcontent.github.io/iberia).
 
-**¿Qué es una Comunidad de Práctica?**
+## ¿Qué es una Comunidad de Práctica?
 
 Una [comunidad de práctica](https://es.wikipedia.org/wiki/Comunidad_de_práctica) es un grupo de personas que comparten un interés o una profesión común y comparten información y recursos aprender y mejorar en su área de especialización. En MeetContent Iberia nos enfocamos en la redacción técnica y la comunicación técnica en España y Portugal. Nuestra comunidad está inspirada en el modelo de comunidades similares en Polonia, [MeetContent Krakow](https://meetcontent.github.io/krakow) y [MeetContent Wroclaw](https://meetcontent.github.io/wroclaw), en funcionamiento desde 2017. MeetContent a su vez está basada en el modelo de comunidades más veteranas como [Write the Docs](https://www.writethedocs.org).
 
-**¿En qué consiste participar en MeetContent?**
+## ¿En qué consiste participar en MeetContent?
 
 Nuestra comunidad está abierta tanto para quienes desarrollan su actividad profesional en el ámbito de la comunicación técnica, como para todas aquellas personas interesadas, tengan o no experiencia práctica. La única inversión que necesitas es tu tiempo y tu voluntad de ponerte en contacto con otras personas interesadas en los mismos temas que tú.
 
@@ -23,7 +23,7 @@ Nuestra comunidad está abierta tanto para quienes desarrollan su actividad prof
 
 - **Establecer conexiones profesionales**, o lo que es lo mismo, networking. Una comunidad de práctica es una de las mejores maneras de establecer conexiones que pueden abrir puertas a oportunidades profesionales y otros projectos.
 
-**¿Qué actividades realiza MeetContent?**
+## ¿Qué actividades realiza MeetContent?
 
 La razón de ser de MeetContent es el intercambio de experiencias y la creación de conexiones. Creemos que la mejor manera de llevarlo a cabo son los eventos presenciales — los [Meetups](https://meetcontent.github.io/events/iberia). Queremos que nuestra comunidad crezca y que podamos organizar eventos presenciales lo antes posible.
 
