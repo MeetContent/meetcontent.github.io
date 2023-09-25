@@ -140,3 +140,15 @@ h6 {
 .bio-div p {
   margin-bottom: 0px;
 }
+
+#mce-success-response::before {
+  content: "¡Gracias por apuntarte! Recibirás un correo en cuanto publiquemos nuevos materiales.";
+  color: var(--ifm-color-primary);
+  border-bottom: solid 3px var(--contrast-color);
+}
+
+#mce-success-response {
+  color: transparent !important;
+  margin: 0 0 1em 0 !important;
+  padding: 0px !important;
+}
