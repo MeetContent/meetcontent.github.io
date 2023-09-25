@@ -2,7 +2,7 @@
 slug: iberia-hola-mundo
 title: Hola, mundo
 authors: db4rr
-tags: [iberia]
+tags: [anuncios]
 ---
 
 Todos sabemos la importancia del aprendizaje y el crecimiento constante en el mundo profesional. Pero a veces nuestra carrera se desarrolla dentro de un espacio nicho, como la redacción y la comunicación técnica. ¿Qué hacer entonces para ampliar tus horizontes? Puedes encontrar recursos en otras lenguas que se aplican al mercado global, pero si desarrollas tu actividad profesional en la península ibérica, ¿qué recursos tienes a tu alcance?

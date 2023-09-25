@@ -57,7 +57,7 @@ function getMenu(id, name) {
         },
         {
           label: 'Artículos/Blog',
-          to: `blog/tags/${id}`,
+          to: `iberia/blog`,
         },
       ],
     };
@@ -219,6 +219,9 @@ const config = {
          * Path to data on filesystem relative to site dir.
          */
         path: './blog-iberia',
+        blogSidebarTitle: 'Otros artículos',
+        blogTitle: 'Blog de MeetContent Iberia',
+        blogDescription: 'Artículos y otros textos de MeetContent Iberia',
       },
     ],
   ],
