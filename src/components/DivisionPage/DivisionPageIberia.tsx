@@ -30,6 +30,7 @@ export default function DivisionPageIberia({
 }: DivisionPageProps) {
   const { siteConfig } = useDocusaurusContext();
   const globalSlackLink = siteConfig.customFields.slackLink as string;
+  const linklinkedInIberia = siteConfig.customFields.linkedInIberia as string;
 
   return (
     <Layout
@@ -59,7 +60,7 @@ export default function DivisionPageIberia({
             Accede aquí a los artículos
           </Link>
           <Link
-            href={linkedInIberia}
+            href={linkedInIberia || linklinkedInIberia}
             className={clsx('button', 'button--secondary', 'button--iberia', styles.fullWidthLink)}
           >
             Síguenos en Linkedin
