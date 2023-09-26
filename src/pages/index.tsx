@@ -14,12 +14,13 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
+        <img src="/img/logo_transparent_black_400.png" alt="MeetContent"/>
         <p className={clsx('hero__subtitle', styles.subTitle)}>{description}</p>
       </div>
     </header>
   );
 }
+// <h1 className="hero__title">{siteConfig.title}</h1>
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
