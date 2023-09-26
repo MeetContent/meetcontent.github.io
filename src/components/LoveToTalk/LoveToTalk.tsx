@@ -14,7 +14,7 @@ export default function LoveToTalk() {
       )}
     >
       <section>
-        <h2>We’d love to talk to you about our meetups!</h2>
+        <h2>We’d love to see you in one of our meetups!</h2>
         <p>You can find us on Facebook, Slack, LinkedIn, and GitHub too</p>
       </section>
       <Link
