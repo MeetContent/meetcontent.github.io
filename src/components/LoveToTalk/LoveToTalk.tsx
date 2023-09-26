@@ -18,7 +18,7 @@ export default function LoveToTalk() {
         <p>You can find us on Facebook, Slack, LinkedIn, and GitHub too</p>
       </section>
       <Link
-        href="mailto:krk@meetcontent.org"
+        href="mailto:contact@meetcontent.org"
         className={styles.email}
       >
         contact@meetcontent.org
