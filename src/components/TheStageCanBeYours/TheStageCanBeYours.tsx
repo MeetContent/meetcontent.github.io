@@ -20,9 +20,7 @@ export default function TheStageCanBeYours() {
         </section>
         <section>
           <p>
-            If you’d like to share your knowledge and experiences with the
-            content community, become a speaker at MeetContent events. During
-            the meetups, we mainly focus on:
+            MeetContent is a network of communities of practice set up to share knowledge and experiences with product-oriented content:
           </p>
           <ul>
             <li>UI and UX</li>
@@ -30,7 +28,7 @@ export default function TheStageCanBeYours() {
             <li>graphic design (videos, photos, graphics, animations)</li>
             <li>technical content (manuals, tutorials, knowledge bases)</li>
           </ul>
-          <p>We’re also open to propositions of talks from other areas.</p>
+          <p>Have something to share? Our stage can be yours.</p>
           <Link
             href="https://goo.gl/forms/k0ksPd9J6RcE0JhE3"
             className="button button--secondary button--lg"
