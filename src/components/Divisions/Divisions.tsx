@@ -34,7 +34,6 @@ export default function Divisions() {
             key={name}
           >
             <h2>
-              <div>MeetContent</div>
               <div>{name}</div>
             </h2>
           </Link>
