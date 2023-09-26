@@ -13,12 +13,6 @@ export default function TheStageCanBeYours() {
     >
       <div className={clsx('container', styles.callForSpeakers)}>
         <section>
-          <ConferenceSpeaker
-          width={imageSize}
-          height={imageSize}
-          />
-        </section>
-        <section>
           <p>
             MeetContent is a network of communities of practice set up to share knowledge and experiences with product-oriented content:
           </p>
@@ -35,6 +29,12 @@ export default function TheStageCanBeYours() {
           >
             Contact us
           </Link>
+        </section>
+        <section>
+          <ConferenceSpeaker
+          width={imageSize}
+          height={imageSize}
+          />
         </section>
       </div>
     </div>
