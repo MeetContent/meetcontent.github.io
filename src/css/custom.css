@@ -152,3 +152,7 @@ h6 {
   margin: 0 0 1em 0 !important;
   padding: 0px !important;
 }
+
+.hero-logo {
+  max-width: 400px;
+}

@@ -14,7 +14,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
-        <img src="/img/logo_transparent_black_400.png" alt="MeetContent"/>
+        <img src="/img/mc-logo-blue.svg" alt="MeetContent" className="hero-logo"/>
         <p className={clsx('hero__subtitle', styles.subTitle)}>{description}</p>
       </div>
     </header>
