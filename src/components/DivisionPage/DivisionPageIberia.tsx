@@ -54,7 +54,7 @@ export default function DivisionPageIberia({
             Sobre nuestros Meetups
           </Link>
           <Link
-            to={blogLink}
+            to="https://meetcontent.github.io/iberia/blog"
             className="button button--primary button--iberia"
           >
             Accede aquí a los artículos
