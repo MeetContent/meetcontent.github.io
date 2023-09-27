@@ -5,21 +5,21 @@ authors: db4rr
 tags: [iberia]
 ---
 
-Todos sabemos la importancia del aprendizaje y el crecimiento constante en el mundo profesional. Pero a veces nuestra carrera se desarrolla dentro de un espacio nicho, como la redacción y la comunicación técnica. ¿Qué hacer entonces para ampliar tus horizontes? Puedes encontrar recursos en otras lenguas que se aplican al mercado global, pero si desarrollas tu actividad profesional en la península ibérica, ¿qué recursos tienes a tu alcance?
+Todos sabemos la importancia del aprendizaje y el crecimiento constante en el mundo profesional. Pero a veces nuestra carrera se desarrolla dentro de un espacio nicho, como la Redacción y la Comunicación Técnica. ¿Qué hacer entonces para ampliar tus horizontes? Puedes encontrar recursos en otras lenguas que se aplican al mercado global, pero si desarrollas tu actividad profesional en la península ibérica, ¿qué recursos tienes a tu alcance?
 
 Cuando [Sara, Pablo y Daniel](https://meetcontent.github.io/iberia#team-title) nos conocimos, nos dimos cuenta de que echábamos en falta una comunidad de práctica como las que habíamos visto en Europa o Estados Unidos. Por eso nos decidimos a poner en marcha [MeetContent Iberia](https://meetcontent.github.io/iberia).
 
 ## ¿Qué es una Comunidad de Práctica?
 
-Una [comunidad de práctica](https://es.wikipedia.org/wiki/Comunidad_de_práctica) es un grupo de personas que comparten un interés o una profesión común y comparten información y recursos aprender y mejorar en su área de especialización. En MeetContent Iberia nos enfocamos en la redacción técnica y la comunicación técnica en España y Portugal. Nuestra comunidad está inspirada en el modelo de comunidades similares en Polonia, [MeetContent Krakow](https://meetcontent.github.io/krakow) y [MeetContent Wroclaw](https://meetcontent.github.io/wroclaw), en funcionamiento desde 2017. MeetContent a su vez está basada en el modelo de comunidades más veteranas como [Write the Docs](https://www.writethedocs.org).
+Una [comunidad de práctica](https://es.wikipedia.org/wiki/Comunidad_de_práctica) es un grupo de personas que comparten un interés o una profesión común y comparten información y recursos para aprender y mejorar en su área de especialización. En MeetContent Iberia nos enfocamos en la Redacción Técnica y la Comunicación Técnica en España y Portugal. Nuestra comunidad está inspirada en el modelo de comunidades similares en Polonia, [MeetContent Krakow](https://meetcontent.github.io/krakow) y [MeetContent Wroclaw](https://meetcontent.github.io/wroclaw), en funcionamiento desde 2017. MeetContent a su vez está basada en el modelo de comunidades más veteranas como [Write the Docs](https://www.writethedocs.org).
 
 ## ¿En qué consiste participar en MeetContent?
 
-Nuestra comunidad está abierta tanto para quienes desarrollan su actividad profesional en el ámbito de la comunicación técnica, como para todas aquellas personas interesadas, tengan o no experiencia práctica. La única inversión que necesitas es tu tiempo y tu voluntad de ponerte en contacto con otras personas interesadas en los mismos temas que tú.
+Nuestra comunidad está abierta tanto para quienes desarrollan su actividad profesional en el ámbito de la Comunicación Técnica, como para todas aquellas personas interesadas, tengan o no experiencia práctica. La única inversión que necesitas es tu tiempo y tu voluntad de ponerte en contacto con otras personas interesadas en los mismos temas que tú.
 
-- **Aprender de otros profesionales:** queremos que MeetContent Iberia facilite la oportunidad de conocer a expertos en redacción técnica y comunicación técnica de diversas empresas en España y Portugal para compartir información y experiencias que nos ayuden a mejorar nuestras habilidades y conocimientos.
+- **Aprender de otros profesionales:** queremos que MeetContent Iberia facilite la oportunidad de conocer a expertos en Redacción Técnica y Comunicación Técnica de diversas empresas en España y Portugal para compartir información y experiencias que nos ayuden a mejorar nuestras habilidades y conocimientos.
 
-- **Explorar nuevas herramientas y enfoques:** como cualquier ámbito profesional, la comunicación técnica está en constante evolución. Una comunidad de práctica facilita mantenerse al día con las últimas herramientas y métodos de trabajo, obtener inspiración y descubrir nuevas formas de abordar los desafíos de nuestro campo.
+- **Explorar nuevas herramientas y enfoques:** como cualquier ámbito profesional, la Comunicación Técnica está en constante evolución. Una comunidad de práctica facilita mantenerse al día con las últimas herramientas y métodos de trabajo, obtener inspiración y descubrir nuevas formas de abordar los desafíos de nuestro campo.
 
 - **Establecer conexiones profesionales**, o lo que es lo mismo, networking. Una comunidad de práctica es una de las mejores maneras de establecer conexiones que pueden abrir puertas a oportunidades profesionales y otros projectos.
 
