@@ -23,7 +23,7 @@ export default function TheStageCanBeYours() {
             <li>technical content (manuals, tutorials, knowledge bases)</li>
           </ul>
           <p>Have something to share? Our stage can be yours.</p>
-          <div>
+          <div className={clsx(styles.buttons)}>
             <Link
               href="https://goo.gl/forms/k0ksPd9J6RcE0JhE3"
               className="button button--secondary button--lg"

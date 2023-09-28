@@ -16,3 +16,8 @@
   max-width: 60ch;
   padding: 16px;
 }
+
+.buttons {
+  display: flex;
+  gap: 1em;
+}
