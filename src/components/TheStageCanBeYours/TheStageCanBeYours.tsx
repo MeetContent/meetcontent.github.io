@@ -23,12 +23,20 @@ export default function TheStageCanBeYours() {
             <li>technical content (manuals, tutorials, knowledge bases)</li>
           </ul>
           <p>Have something to share? Our stage can be yours.</p>
-          <Link
-            href="https://goo.gl/forms/k0ksPd9J6RcE0JhE3"
-            className="button button--secondary button--lg"
-          >
-            Contact us
-          </Link>
+          <div>
+            <Link
+              href="https://goo.gl/forms/k0ksPd9J6RcE0JhE3"
+              className="button button--secondary button--lg"
+            >
+              Contact us
+            </Link>
+            <Link
+              href="https://join.slack.com/t/meetcontent/shared_invite/enQtNDUyNDI2ODY2MTEyLTJmMjkxMGYwZjgwOTJhYjNjMzU5MWVjODNkYmZiNThkMDE4MDQzOTA0ODRhZTM2MDRkNmRiMTE3NWM4MmU2NzI"
+              className="button button--primary button--lg"
+            >
+              Join us on Slack
+            </Link>
+          </div>
         </section>
         <section>
           <ConferenceSpeaker
