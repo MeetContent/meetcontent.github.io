@@ -39,10 +39,11 @@ Cada uno nos presentamos, y así vemos viendo el panorama y la realidad a la que
 
 ## Meetup #1
 
-- Presentamos la comunidad de práctica, y nos presentamos nosotros mismos
-- Pedirles que todos escriban en el chat una pequeña invitación -- así va a quedar ahí por si quieren tomar contacto después de la mesa redonda. Nosotros (organizadores) nos quedaremos en linea hasta que el ultimo de ellos deje la reunión.
-- Si somos muchos: separamos en grupos de 5
-- Si somos pocos: todos nos presentamos en la sala principal
+- Presentamos la comunidad de práctica, y nos presentamos nosotros mismos (1/3 del meetup MAXIMO)
+- Ofrecerles que escriban en el chat una pequeña presentación y algún contacto (email, linkedin, lo que quieran) -- así va a quedar ahí por si quieren tomar contacto después de la mesa redonda. Nosotros (organizadores) nos quedaremos en linea hasta que el ultimo de ellos deje la reunión.
+- Conversaciones en grupo (speed networking) 2/3 del meetup
+  - Si somos muchos: separamos en grupos de 5, en cada grupo la gente se presenta, y luego ¨reconfiguramos¨ los grupos. (1/3 por foro)
+  - Si somos pocos: todos nos presentamos en la sala principal
 
 Preguntas para discusión:
 - ¿Cuál es tu experiencia con la comunicación y redacción técnica?
@@ -50,4 +51,4 @@ Preguntas para discusión:
 - ¿Qué clase de conocimientos echas más en falta?
 - ¿Qué perfil de personas te gustaría conocer?
 
-- Al cerrar compartimos una encuesta, esta encuesta la compartimos en linkedin, y hacemos otro articulo en el blog.
+- Al cerrar compartimos una encuesta para saber qué esperan de la comunidad, que querrian que trataramos, si podrían reunirse presencialmente, esta encuesta la compartimos en linkedin, y hacemos otro articulo en el blog.
