@@ -48,13 +48,13 @@ export default function DivisionPageIberia({
 
         <div className={styles.links}>
           <Link
-            to={meetupsLink}
+            to="/events/iberia"
             className="button button--primary button--iberia"
           >
             Sobre nuestros Meetups
           </Link>
           <Link
-            to={blogLink}
+            to="/iberia/blog"
             className="button button--primary button--iberia"
           >
             Accede aquí a los artículos
