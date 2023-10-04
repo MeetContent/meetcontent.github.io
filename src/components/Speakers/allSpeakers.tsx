@@ -64,14 +64,19 @@ export const allSpeakers: SpeakerProps[] = [
     bio: (
       <>
         <p>
-          Przez ponad 10 lat, Rafał pracował jako deweloper, pochłaniając
-          tajemną wiedzę na temat tworzenia oprogramowania, zdobywając
-          umiejętności programistyczne, by w końcu rzucić to wszystko i zostać…
-          managerem do spraw dokumentacji.
+          After more than 10 years of improving his programming skills and
+          delving into software development secrets, Rafał has found his true
+          calling and became the Documentation Manager.
         </p>
         <p>
-          W DreamLabie, opiekuje się procesem tworzenia dokumentów, organizacją
-          bazy wiedzy i dostarczaniem narzędzi do pisania dokumentacji.
+          At Ringier Axel Springer Tech, he orchestrates the documentation
+          process, takes care of the knowledge base, and makes sure developers
+          have all the necessary doc tools to write great documentation.
+        </p>
+        <p>
+          If you are familiar with the soap! content conference, you may also
+          know Rafał as one of the frequent speakers and the voice of developers
+          who not only write the code, but also the docs.
         </p>
       </>
     ),
@@ -349,7 +354,12 @@ export const allSpeakers: SpeakerProps[] = [
     name: 'Daniel Barrio Fierro',
     bio: (
       <>
-        Daniel viene del mundo del software y tiene más de una década de experiencia en contenidos técnicos, incluyendo la creación de taxonomías para Google o la generación de documentación y herramientas de publicación en Nokia y Dolby. Es uno de los creadores del primer curso de postgrado de comunicación técnica en Polonia, y hasta 2020 fue coordinador de MeetContent Wrocław.
+        Daniel viene del mundo del software y tiene más de una década de
+        experiencia en contenidos técnicos, incluyendo la creación de taxonomías
+        para Google o la generación de documentación y herramientas de
+        publicación en Nokia y Dolby. Es uno de los creadores del primer curso
+        de postgrado de comunicación técnica en Polonia, y hasta 2020 fue
+        coordinador de MeetContent Wrocław.
       </>
     ),
   },
@@ -357,7 +367,12 @@ export const allSpeakers: SpeakerProps[] = [
     name: 'Pablo de Eguileor Astigarraga',
     bio: (
       <>
-        Generalista apasionado por las Publicaciones Técnicas y por crear el efecto ¡ajá! en el lector. +25 años en Comunicación Técnica ejerciendo todo tipo de funciones (redactor técnico, responsable de redacción, comercial de servicios de externalización, consultor y formador) y para diferentes tipos de sectores vinculados a fabricantes de producto físico (energía, maquinaria, automoción, electrónica, electrodoméstico, etc.).
+        Generalista apasionado por las Publicaciones Técnicas y por crear el
+        efecto ¡ajá! en el lector. +25 años en Comunicación Técnica ejerciendo
+        todo tipo de funciones (redactor técnico, responsable de redacción,
+        comercial de servicios de externalización, consultor y formador) y para
+        diferentes tipos de sectores vinculados a fabricantes de producto físico
+        (energía, maquinaria, automoción, electrónica, electrodoméstico, etc.).
       </>
     ),
   },
@@ -365,7 +380,12 @@ export const allSpeakers: SpeakerProps[] = [
     name: 'Sara Sánchez Ortiz',
     bio: (
       <>
-        Sara tiene experiencia en traducción y redacción técnica que abarca desde manuales técnicos hasta documentos de patentes y nuevas tecnologías, con un enfoque especial en el software. Actualmente desempeña un papel fundamental como Redactora Técnica en Omada, donde lidera el proyecto de Localización del software en ocho idiomas diferentes.
+        Sara tiene experiencia en traducción y redacción técnica que abarca
+        desde manuales técnicos hasta documentos de patentes y nuevas
+        tecnologías, con un enfoque especial en el software. Actualmente
+        desempeña un papel fundamental como Redactora Técnica en Omada, donde
+        lidera el proyecto de Localización del software en ocho idiomas
+        diferentes.
       </>
     ),
   },
