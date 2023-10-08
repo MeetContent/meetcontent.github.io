@@ -389,4 +389,14 @@ export const allSpeakers: SpeakerProps[] = [
       </>
     ),
   },
+  {
+    name: 'Michał Olender',
+    bio: (
+      <>
+        A technical writer by choice since 2021. Apart from working on
+        documentation, Michał enjoys great food (get ready for some hints after
+        the presentation ;), video games, and weird keyboards.
+      </>
+    ),
+  },
 ];

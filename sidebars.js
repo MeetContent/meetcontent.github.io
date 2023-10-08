@@ -9,7 +9,8 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'MeetContent Iberia',
-        description: 'Aquí tienes información sobre nuestros meetups futuros, presentes, y pasados.',
+        description:
+          'Aquí tienes información sobre nuestros meetups futuros, presentes, y pasados.',
         slug: '/iberia',
         keywords: ['iberia'],
       },
@@ -32,7 +33,12 @@ const sidebars = {
           type: 'category',
           label: '2023',
           collapsed: false,
-          items: ['krakow/2023/15', 'krakow/2023/14', 'krakow/2023/13'],
+          items: [
+            'krakow/2023/16',
+            'krakow/2023/15',
+            'krakow/2023/14',
+            'krakow/2023/13',
+          ],
         },
         {
           type: 'category',
