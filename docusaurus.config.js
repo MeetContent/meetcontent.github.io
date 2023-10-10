@@ -147,7 +147,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/meet-content-blue.png',
+      image: 'img/logo_transparent_blue_400.png',
       colorMode: {
         defaultMode: 'light',
         disableSwitch: true,
