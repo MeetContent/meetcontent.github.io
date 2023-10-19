@@ -31,7 +31,7 @@ export default function TheStageCanBeYours() {
               Contact us
             </Link>
             <Link
-              href="https://join.slack.com/t/meetcontent/shared_invite/enQtNDUyNDI2ODY2MTEyLTJmMjkxMGYwZjgwOTJhYjNjMzU5MWVjODNkYmZiNThkMDE4MDQzOTA0ODRhZTM2MDRkNmRiMTE3NWM4MmU2NzI"
+              href="https://join.slack.com/t/meetcontent/shared_invite/zt-25fwtg7g4-nphKJKAb1CwCZmSS9rJlWQ"
               className="button button--primary button--lg"
             >
               Join us on Slack

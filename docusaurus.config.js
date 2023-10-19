@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const githubLink = 'https://github.com/MeetContent/meetcontent.github.io';
 const organizationName = 'MeetContent';
 const slackLink =
-  'https://join.slack.com/t/meetcontent/shared_invite/enQtNDUyNDI2ODY2MTEyLTJmMjkxMGYwZjgwOTJhYjNjMzU5MWVjODNkYmZiNThkMDE4MDQzOTA0ODRhZTM2MDRkNmRiMTE3NWM4MmU2NzI';
+  'https://join.slack.com/t/meetcontent/shared_invite/zt-25fwtg7g4-nphKJKAb1CwCZmSS9rJlWQ';
 const linkedInIberia = 'https://www.linkedin.com/company/100016156/'
 
 function sortSidebarItemsByDate(items, idsWithDates) {
