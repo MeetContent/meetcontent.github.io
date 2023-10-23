@@ -7,7 +7,7 @@ Muy buena idea de Pablo: Elvator Pitches de 3 minutos al comienzo
 Cada uno nos presentamos, y así vemos viendo el panorama y la realidad a la que cada uno nos enfrentamos.
 
 ## Newsletter ideas:
-- Historia de la redacción técnica como profesión
+- Historia de la redacción técnica como profesión - Sara (26/10/23)
 - Las escuelas y teorías detrás del ¨Technical Writing¨ (serie de posts) -- minimalismo, embudo de nuremberg, structured authoring...
 - Famosos redactores técnicos (serie de posts) -- Ted Chiang, George Saunders...
 - Comunicación técnica vs Redacción técnica
