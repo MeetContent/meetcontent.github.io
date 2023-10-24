@@ -4,10 +4,16 @@
         <title>MeetContent Blog</title>
         <link>https://meetcontent.github.io/iberia/blog</link>
         <description>MeetContent Blog</description>
-        <lastBuildDate>Wed, 27 Sep 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Historia-de-la-redaccin-tecnica]]></title>
+            <link>https://meetcontent.github.io/iberia/blog/2023/10/26/Historia-de-la-redaccin-tecnica</link>
+            <guid>https://meetcontent.github.io/iberia/blog/2023/10/26/Historia-de-la-redaccin-tecnica</guid>
+            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hola, mundo]]></title>
             <link>https://meetcontent.github.io/iberia/blog/iberia-hola-mundo</link>
