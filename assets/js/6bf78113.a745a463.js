@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmeet_content=self.webpackChunkmeet_content||[]).push([[6246],{5494:e=>{e.exports=JSON.parse('{"title":"Otros art\xedculos","items":[{"title":"Historia-de-la-redaccin-tecnica","permalink":"/iberia/blog/2023/10/26/Historia-de-la-redaccin-tecnica"},{"title":"Hola, mundo","permalink":"/iberia/blog/iberia-hola-mundo"}]}')}}]);
