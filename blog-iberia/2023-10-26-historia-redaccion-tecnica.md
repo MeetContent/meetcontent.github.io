@@ -1,7 +1,7 @@
 ---
 slug: iberia-historia-redaccion-tecnica
 title: La Redacción Técnica tiene un pasado
-authors: Sara Sánchez
+authors: sara
 tags: [anuncios]
 ---
 ¿Es la Redacción Técnica realmente una profesión reciente en la península ibérica? Hoy te venimos a contar un poco más sobre cómo surge esta profesión en la península, concretamente en España, y cómo evolucionó hasta convertirse en lo que conocemos hoy en día. En este artículo, vamos a contarte cómo surge la necesidad de empezar a redactar documentos técnicos, cuál fue considerado el primer manual técnico y, además, te contamos cómo puedes formar parte de este mundo.
