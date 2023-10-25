@@ -29,7 +29,7 @@ La razón de ser de MeetContent es el intercambio de experiencias y la creación
 
 También queremos establecer un espacio para publicar [artículos](https://meetcontent.github.io/blog/tags/iberia) y compartir contenidos de interés. Para mantenerte al tanto de todo lo que hacemos, puedes unirte a nuestro [boletín de correo](https://meetcontent.github.io/iberia#newsletter-title) y seguirnos en [LinkedIn](https://www.linkedin.com/company/100016156/).
 
-Y si quieres contactar con cualquiera de los miembros de la comunidad MeetContent, puedes unirte a nuestros [canales de Slack](https://join.slack.com/t/meetcontent/shared_invite/enQtNDUyNDI2ODY2MTEyLTJmMjkxMGYwZjgwOTJhYjNjMzU5MWVjODNkYmZiNThkMDE4MDQzOTA0ODRhZTM2MDRkNmRiMTE3NWM4MmU2NzI).
+Y si quieres contactar con cualquiera de los miembros de la comunidad MeetContent, puedes unirte a nuestros [canales de Slack](https://join.slack.com/t/meetcontent/shared_invite/zt-25fwtg7g4-nphKJKAb1CwCZmSS9rJlWQ).
 
 **¿Estás listo para conocernos?** Apúntate a [nuestro primer evento online](https://meetcontent.github.io/events/iberia/1) el 19 de Octubre a las 18:00.
 Te esperamos con los brazos abiertos.

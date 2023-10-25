@@ -37,7 +37,7 @@ Dedicarse al mundo de la Comunicación y de la Redacción Técnica implica tener
 También puedes unirte a nuestra comunidad en la que realizamos eventos para aprender y compartir experiencias con otras personas interesadas. Apuntate a [nuestro boletín de correo](https://meetcontent.github.io/iberia#newsletter-title) y síguenos en [LinkedIn](https://www.linkedin.com/company/100016156/) para enterarte de cuándo sucederán. Ya estamos preparando el próximo que será en noviembre, así que ¡date prisa!
 
 Además, si tienes algo que quieras compartir o alguna idea que quieres que tratemos en [MeetContent Iberia](https://meetcontent.github.io/), haznoslo saber a través de esta [encuesta](https://us12.list-manage.com/survey?u=e3bb0652e72dbb8d536b7086d&id=df49e7e208&attribution=false).
-Y si quieres contactar con cualquiera de los miembros de la comunidad MeetContent, puedes unirte a nuestros [canales de Slack](https://join.slack.com/t/meetcontent/shared_invite/enQtNDUyNDI2ODY2MTEyLTJmMjkxMGYwZjgwOTJhYjNjMzU5MWVjODNkYmZiNThkMDE4MDQzOTA0ODRhZTM2MDRkNmRiMTE3NWM4MmU2NzI).
+Y si quieres contactar con cualquiera de los miembros de la comunidad MeetContent, puedes unirte a nuestros [canales de Slack](https://join.slack.com/t/meetcontent/shared_invite/zt-25fwtg7g4-nphKJKAb1CwCZmSS9rJlWQ).
 
 ¿Estás listo para la aventura? ¡Te esperamos con los brazos abiertos!
 

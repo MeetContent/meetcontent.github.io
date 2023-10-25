@@ -12,7 +12,7 @@ MeetContent is currently active in:
 - [Iberian peninsula](https://meetcontent.github.io/iberia) 🇪🇸🇵🇹
 
 👉
-[Join us on Slack](https://join.slack.com/t/meetcontent/shared_invite/enQtNDUyNDI2ODY2MTEyLTJmMjkxMGYwZjgwOTJhYjNjMzU5MWVjODNkYmZiNThkMDE4MDQzOTA0ODRhZTM2MDRkNmRiMTE3NWM4MmU2NzI.)
+[Join us on Slack](https://join.slack.com/t/meetcontent/shared_invite/zt-25fwtg7g4-nphKJKAb1CwCZmSS9rJlWQ)
 👈
 
 ## Notes from and for members
