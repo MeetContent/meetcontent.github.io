@@ -227,6 +227,9 @@ const config = {
         blogTitle: 'Blog de MeetContent Iberia',
         blogDescription: 'Artículos y otros textos de MeetContent Iberia',
       },
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
       {
         /**
          * Required for any multi-instance plugin
