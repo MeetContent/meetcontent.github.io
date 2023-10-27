@@ -245,8 +245,10 @@ const config = {
          */
         path: './glossary-iberia',
         blogSidebarTitle: 'Otras entradas',
+        blogSidebarCount: 'ALL',  
         blogTitle: 'Glosario',
         blogDescription: 'Términos del campo de la Redacción y Comunicación Técnica',
+        showReadingTime: false,
       },
     ],
   ],
