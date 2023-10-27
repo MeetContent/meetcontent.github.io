@@ -223,6 +223,24 @@ const config = {
         blogTitle: 'Blog de MeetContent Iberia',
         blogDescription: 'Artículos y otros textos de MeetContent Iberia',
       },
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'glossary-iberia',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'iberia/glosario',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './glossary-iberia',
+        blogSidebarTitle: 'Otras entradas',
+        blogTitle: 'Glosario',
+        blogDescription: 'Términos del campo de la Redacción y Comunicación Técnica',
+      },
     ],
   ],
 };
