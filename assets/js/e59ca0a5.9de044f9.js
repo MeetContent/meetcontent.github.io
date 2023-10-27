@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeet_content=self.webpackChunkmeet_content||[]).push([[1889],{4135:e=>{e.exports=JSON.parse('{"permalink":"/iberia/glosario","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"T\xe9rminos del campo de la Redacci\xf3n y Comunicaci\xf3n T\xe9cnica","blogTitle":"Glosario"}')}}]);
