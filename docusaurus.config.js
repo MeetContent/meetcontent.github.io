@@ -244,7 +244,7 @@ const config = {
          * Path to data on filesystem relative to site dir.
          */
         path: './glossary-iberia',
-        blogSidebarTitle: 'Otras entradas',
+        blogSidebarTitle: 'Glosario',
         blogSidebarCount: 'ALL',  
         blogTitle: 'Glosario',
         blogDescription: 'Términos del campo de la Redacción y Comunicación Técnica',
