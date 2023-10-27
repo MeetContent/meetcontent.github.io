@@ -59,6 +59,10 @@ function getMenu(id, name) {
           label: 'Artículos/Blog',
           to: `iberia/blog`,
         },
+        {
+          label: 'Glosario',
+          to: `iberia/glosario`,
+        },
       ],
     };
   }
