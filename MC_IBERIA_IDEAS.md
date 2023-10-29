@@ -52,3 +52,9 @@ Preguntas para discusión:
 - ¿Qué perfil de personas te gustaría conocer?
 
 - Al cerrar compartimos una encuesta para saber qué esperan de la comunidad, que querrian que trataramos, si podrían reunirse presencialmente, esta encuesta la compartimos en linkedin, y hacemos otro articulo en el blog.
+
+## Meetup #2
+
+Evento online antes de Navidad con un tema de discusión.
+IDEA: DITA para PYMES. ¿Cómo entrar en redacción estructurada? ¿Cómo convencer a tu organización de que merece la pena?
+Primero lo hacemos online, y luego preparamos el campo para el evento presencial.
