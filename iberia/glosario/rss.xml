@@ -4,7 +4,7 @@
         <title>MeetContent Blog</title>
         <link>https://meetcontent.github.io/iberia/glosario</link>
         <description>MeetContent Blog</description>
-        <lastBuildDate>Tue, 07 Nov 2023 19:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 18:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Comunicación Técnica]]></title>
             <link>https://meetcontent.github.io/iberia/glosario/comunicacion-tecnica</link>
             <guid>https://meetcontent.github.io/iberia/glosario/comunicacion-tecnica</guid>
-            <pubDate>Tue, 07 Nov 2023 19:30:09 GMT</pubDate>
+            <pubDate>Wed, 08 Nov 2023 18:38:34 GMT</pubDate>
             <description><![CDATA[La Comunicación Técnica es un concepto más amplio que abarca no solo la redacción, sino también otros medios de transmisión de información, como presentaciones, gráficos, diagramas, videos, conferencias, etc. Se centra en la transmisión efectiva de información técnica a una audiencia específica, teniendo en cuenta el medio más apropiado para lograrlo. Puede involucrar no solo la redacción de documentos, sino también la habilidad de explicar conceptos técnicos de manera verbal, visual o interactiva.]]></description>
             <content:encoded><![CDATA[<p>La Comunicación Técnica es un concepto más amplio que abarca no solo la redacción, sino también otros medios de transmisión de información, como presentaciones, gráficos, diagramas, videos, conferencias, etc. Se centra en la transmisión efectiva de información técnica a una audiencia específica, teniendo en cuenta el medio más apropiado para lograrlo. Puede involucrar no solo la redacción de documentos, sino también la habilidad de explicar conceptos técnicos de manera verbal, visual o interactiva.</p>]]></content:encoded>
         </item>
@@ -20,7 +20,7 @@
             <title><![CDATA[Redacción Técnica]]></title>
             <link>https://meetcontent.github.io/iberia/glosario/redaccion-tecnica</link>
             <guid>https://meetcontent.github.io/iberia/glosario/redaccion-tecnica</guid>
-            <pubDate>Tue, 07 Nov 2023 19:30:09 GMT</pubDate>
+            <pubDate>Wed, 08 Nov 2023 18:38:34 GMT</pubDate>
             <description><![CDATA[La Redacción Técnica se centra en la creación de documentos escritos, como informes, manuales, especificaciones técnicas, guías de usuario, documentos de investigación, etc. El objetivo principal es transmitir información técnica de manera clara, precisa y coherente. Se enfoca en la estructura, el estilo, la gramática y la organización de la información escrita.]]></description>
             <content:encoded><![CDATA[<p>La Redacción Técnica se centra en la creación de documentos escritos, como informes, manuales, especificaciones técnicas, guías de usuario, documentos de investigación, etc. El objetivo principal es transmitir información técnica de manera clara, precisa y coherente. Se enfoca en la estructura, el estilo, la gramática y la organización de la información escrita.</p>]]></content:encoded>
         </item>
