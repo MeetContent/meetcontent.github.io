@@ -81,6 +81,7 @@ const sidebars = {
           collapsed: false,
           items: [
             'wroclaw/2023/meetcontentwro-24-unboxing-api-documentation',
+            'wroclaw/2023/23'
           ],
         },
         {
