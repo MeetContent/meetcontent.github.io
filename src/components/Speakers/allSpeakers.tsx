@@ -399,4 +399,12 @@ export const allSpeakers: SpeakerProps[] = [
       </>
     ),
   },
+  {
+    name: 'Paweł Hałabuda',
+    bio: (
+      <>
+        Paweł is a Head of Communication at Text (previously Live Chat). He is leading the adoption of AI tools for creating content at scale.
+      </>
+    ),
+  },
 ];
