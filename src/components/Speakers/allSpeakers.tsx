@@ -403,7 +403,21 @@ export const allSpeakers: SpeakerProps[] = [
     name: 'Paweł Hałabuda',
     bio: (
       <>
-        Paweł is a Head of Communication at Text (previously Live Chat). He is leading the adoption of AI tools for creating content at scale.
+        Paweł is a Head of Communication at Text (previously Live Chat). He is
+        leading the adoption of AI tools for creating content at scale.
+      </>
+    ),
+  },
+  {
+    name: 'Patrycja Guzik',
+    bio: (
+      <>
+        The presentation is brought to you by Patrycja Guzik, a technical writer
+        for nearly 9 years. She got into this field by accident, but over the
+        years, she discovered a real passion for writing. She's all about
+        finding the best ways to make complex topics easy to understand,
+        experimenting with visuals, organizing information, and crafting great
+        user experience.
       </>
     ),
   },

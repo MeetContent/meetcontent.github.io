@@ -34,6 +34,7 @@ const sidebars = {
           label: '2023',
           collapsed: false,
           items: [
+            'krakow/2023/17',
             'krakow/2023/16',
             'krakow/2023/15',
             'krakow/2023/14',
@@ -81,7 +82,7 @@ const sidebars = {
           collapsed: false,
           items: [
             'wroclaw/2023/meetcontentwro-24-unboxing-api-documentation',
-            'wroclaw/2023/23'
+            'wroclaw/2023/23',
           ],
         },
         {
