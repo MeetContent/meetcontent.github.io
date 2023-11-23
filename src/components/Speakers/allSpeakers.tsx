@@ -407,4 +407,20 @@ export const allSpeakers: SpeakerProps[] = [
       </>
     ),
   },
+  {
+    name: 'Zuza Widz',
+    bio: (
+      <>
+        Zuza is a Localization & UX Writing Specialist at Ten Square Games.
+      </>
+    ),
+  },
+  {
+    name: 'Bartłomiej Piątkiewicz',
+    bio: (
+      <>
+        Bartek is a Senior Localization & Translation Specialist at Ten Square Games.
+      </>
+    ),
+  },
 ];
