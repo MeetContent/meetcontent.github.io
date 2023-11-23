@@ -7,7 +7,8 @@ const githubLink = 'https://github.com/MeetContent/meetcontent.github.io';
 const organizationName = 'MeetContent';
 const slackLink =
   'https://join.slack.com/t/meetcontent/shared_invite/zt-25fwtg7g4-nphKJKAb1CwCZmSS9rJlWQ';
-const linkedInIberia = 'https://www.linkedin.com/company/100016156/'
+const linkedInIberia = 'https://www.linkedin.com/company/100016156/';
+const facebookLink = 'https://www.facebook.com/meetcontentcommunity';
 
 function sortSidebarItemsByDate(items, idsWithDates) {
   const result = items.map((item) => {
@@ -80,10 +81,12 @@ function getMenu(id, name) {
           sidebarId: `events${id.charAt(0).toUpperCase() + id.slice(1)}`,
           label: 'Meetups',
         },
+        /* This section is disabled for WRO and KRK
         {
           label: 'Articles/Blog',
           to: `blog/tags/${id}`,
         },
+        */
       ],
     };
   }
