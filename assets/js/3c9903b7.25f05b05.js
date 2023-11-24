@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeet_content=self.webpackChunkmeet_content||[]).push([[2343],{7180:e=>{e.exports=JSON.parse('{"title":"MeetContent Wroc\u0142aw","description":"Meetups in Wroc\u0142aw","keywords":["wroclaw"],"slug":"/wroclaw","permalink":"/events/wroclaw","navigation":{"next":{"title":"UnBOXing API documentation","permalink":"/events/wroclaw/2023/24"}}}')}}]);
