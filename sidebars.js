@@ -93,6 +93,17 @@ const sidebars = {
           label: '2020',
           collapsed: false,
           items: [
+            'wroclaw/2022/19',
+            'wroclaw/2022/18',
+            'wroclaw/2022/17',
+            
+          ],
+        },
+        {
+          type: 'category',
+          label: '2020',
+          collapsed: false,
+          items: [
             'wroclaw/2020/meetcontentwro-15-connecting-in-the-new-normal',
             'wroclaw/2020/meetcontentwro-14-a-romance-of-many-dimensions-part-2',
             'wroclaw/2020/meetcontentwro-13-a-romance-of-many-dimensions',
