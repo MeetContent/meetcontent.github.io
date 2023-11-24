@@ -93,9 +93,10 @@ const sidebars = {
           label: '2020',
           collapsed: false,
           items: [
-            'wroclaw/2020/meetcontentwro-13-a-romance-of-many-dimensions',
-            'wroclaw/2020/meetcontentwro-14-a-romance-of-many-dimensions-part-2',
             'wroclaw/2020/meetcontentwro-15-connecting-in-the-new-normal',
+            'wroclaw/2020/meetcontentwro-14-a-romance-of-many-dimensions-part-2',
+            'wroclaw/2020/meetcontentwro-13-a-romance-of-many-dimensions',
+            
           ],
         },
         {
@@ -103,9 +104,9 @@ const sidebars = {
           label: '2019',
           collapsed: false,
           items: [
-            'wroclaw/2019/meetcontentwro-10-simplified-technical-english',
-            'wroclaw/2019/meetcontentwro-11-ar-documentation-our-experiments-with-microsoft-hololens',
             'wroclaw/2019/meetcontentwro-12-creating-spare-parts-catalogue',
+            'wroclaw/2019/meetcontentwro-11-ar-documentation-our-experiments-with-microsoft-hololens',
+            'wroclaw/2019/meetcontentwro-10-simplified-technical-english',
             'wroclaw/2019/meetcontentwro-9-simplified-technical-english-12',
           ],
         },
@@ -115,16 +116,20 @@ const sidebars = {
           collapsed: false,
           items: [
             'wroclaw/2018/327',
-            'wroclaw/2018/grzegorz-kossobudzki',
-            'wroclaw/2018/grzegorz-kossobudzki-2',
             'wroclaw/2018/grzegorz-kossobudzki-3',
-            'wroclaw/2018/meetcontentwro-7',
+           
+            
           ],
         },
         {
           type: 'category',
           label: '2017',
-          items: ['wroclaw/2017/402'],
+          items: [
+            'wroclaw/2018/grzegorz-kossobudzki-2',
+            'wroclaw/2018/grzegorz-kossobudzki',
+            'wroclaw/2018/meetcontentwro-7',
+            'wroclaw/2017/402'
+          ],
         },
       ],
     },
