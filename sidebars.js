@@ -81,8 +81,10 @@ const sidebars = {
           label: '2023',
           collapsed: false,
           items: [
-            'wroclaw/2023/meetcontentwro-24-unboxing-api-documentation',
+            'wroclaw/2023/22',
             'wroclaw/2023/23',
+            'wroclaw/2023/meetcontentwro-24-unboxing-api-documentation',
+            
           ],
         },
         {
