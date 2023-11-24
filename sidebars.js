@@ -85,7 +85,7 @@ const sidebars = {
             'wroclaw/2023/23',
             'wroclaw/2023/22',
             'wroclaw/2023/21',
-            
+            'wroclaw/2023/20',
           ],
         },
         {
