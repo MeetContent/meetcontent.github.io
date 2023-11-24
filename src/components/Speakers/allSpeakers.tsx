@@ -437,4 +437,12 @@ export const allSpeakers: SpeakerProps[] = [
       </>
     ),
   },
+  {
+    name: 'Awesome content folks',
+    bio: (
+      <>
+        Everyone who lives and breathes technical content. 
+      </>
+    ),
+  },
 ];
