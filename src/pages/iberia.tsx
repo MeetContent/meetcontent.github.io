@@ -27,7 +27,7 @@ export default function Iberia() {
             <div>
             <img src="/img/iberia-sara.jpg" alt="Sara Sánchez" className="bio-picture"/>
             <p>
-              Sara tiene experiencia en traducción y redacción técnica que abarca desde manuales técnicos hasta documentos de patentes y nuevas tecnologías, con un enfoque especial en el software. Actualmente desempeña un papel fundamental como Redactora Técnica en Omada, donde lidera el proyecto de Localización del software en ocho idiomas diferentes.
+              Sara es redactora y traductora técnica con una experiencia que abarca desde manuales técnicos hasta documentos de patentes y nuevas tecnologías, con un enfoque especial en el software. Actualmente desempeña un papel fundamental como Redactora Técnica y lidera un proyecto de Localización de software en ocho idiomas diferentes.
             </p>
             </div>
           </div>
