@@ -351,6 +351,15 @@ export const allSpeakers: SpeakerProps[] = [
     ),
   },
   {
+    name: 'Fabrizio Ferri-Benedetti',
+    bio: (
+      <>
+        Principal Technical Writer at Splunk. Also OpenTelemetry.io approver and contributor and retrocomputing enthusiast.
+        HE COPIADO ESTO DE LINKEDIN, HAY QUE PEDIRLE A FABRIZIO UNA BIO EN CASTELLANO.
+      </>
+    ),
+  },
+  {
     name: 'Daniel Barrio Fierro',
     bio: (
       <>
