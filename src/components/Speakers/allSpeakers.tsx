@@ -354,9 +354,7 @@ export const allSpeakers: SpeakerProps[] = [
     name: 'Fabrizio Ferri-Benedetti',
     bio: (
       <>
-        Principal Technical Writer at Splunk. Also OpenTelemetry.io approver and contributor and retrocomputing enthusiast.
-        HE COPIADO ESTO DE LINKEDIN, HAY QUE PEDIRLE A FABRIZIO UNA BIO EN CASTELLANO.
-      </>
+        Principal Redactor Técnico en Splunk y colaborador en OpenTlemetry.io. Fabrizio Ferri Benedetti es un talentoso Redactor Técnico, experto en experiencia de usuario y programación con base en Barcelona, España. Su vida gira en torno a la exploración y redacción sobre tecnología, dedicándose a comunicar de manera efectiva en el ámbito tecnológico desde el año 2008. Inicialmente, desempeñó roles como periodista técnico y estratega de contenido, para luego evolucionar hacia funciones como diseñador de API y redactor técnico.
     ),
   },
   {
