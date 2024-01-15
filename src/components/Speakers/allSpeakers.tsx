@@ -359,7 +359,7 @@ export const allSpeakers: SpeakerProps[] = [
     ),
   },
   {
-    name: 'Daniel Barrio Fierro',
+    name: 'Daniel Barrio Fierro' ,
     bio: (
       <>
         Daniel viene del mundo del software y tiene más de una década de
