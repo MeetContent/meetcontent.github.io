@@ -354,7 +354,14 @@ export const allSpeakers: SpeakerProps[] = [
     name: 'Fabrizio Ferri-Benedetti',
     bio: (
       <>
-        Principal Redactor Técnico en Splunk y colaborador en OpenTelemetry.io. Fabrizio Ferri Benedetti es un talentoso Redactor Técnico, experto en experiencia de usuario y programación con base en Barcelona, España. Su vida gira en torno a la exploración y redacción sobre tecnología, dedicándose a comunicar de manera efectiva en el ámbito tecnológico desde el año 2008. Inicialmente, desempeñó roles como periodista técnico y estratega de contenido, para luego evolucionar hacia funciones como diseñador de API y redactor técnico.
+        Principal Redactor Técnico en Splunk y colaborador en OpenTelemetry.io.
+        Fabrizio Ferri Benedetti es un talentoso Redactor Técnico, experto en
+        experiencia de usuario y programación con base en Barcelona, España. Su
+        vida gira en torno a la exploración y redacción sobre tecnología,
+        dedicándose a comunicar de manera efectiva en el ámbito tecnológico
+        desde el año 2008. Inicialmente, desempeñó roles como periodista técnico
+        y estratega de contenido, para luego evolucionar hacia funciones como
+        diseñador de API y redactor técnico.
       </>
     ),
   },
@@ -432,24 +439,29 @@ export const allSpeakers: SpeakerProps[] = [
   {
     name: 'Zuza Widz',
     bio: (
-      <>
-        Zuza is a Localization & UX Writing Specialist at Ten Square Games.
-      </>
+      <>Zuza is a Localization & UX Writing Specialist at Ten Square Games.</>
     ),
   },
   {
     name: 'Bartłomiej Piątkiewicz',
     bio: (
       <>
-        Bartek is a Senior Localization & Translation Specialist at Ten Square Games.
+        Bartek is a Senior Localization & Translation Specialist at Ten Square
+        Games.
       </>
     ),
   },
   {
     name: 'Awesome content folks',
+    bio: <>Everyone who lives and breathes technical content.</>,
+  },
+  {
+    name: 'Jan Sosna',
     bio: (
       <>
-        Everyone who lives and breathes technical content. 
+        Jan is currently working as an Information Developer at Heretto. Jan has
+        been creating technical content since 2018: writing, illustrating,
+        making part catalogues and conducting trainings.
       </>
     ),
   },

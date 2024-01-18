@@ -31,8 +31,13 @@ const sidebars = {
       items: [
         {
           type: 'category',
-          label: '2023',
+          label: '2024',
           collapsed: false,
+          items: ['krakow/2024/19'],
+        },
+        {
+          type: 'category',
+          label: '2023',
           items: [
             'krakow/2023/17',
             'krakow/2023/16',
@@ -85,7 +90,6 @@ const sidebars = {
             'wroclaw/2023/23',
             'wroclaw/2023/22',
             'wroclaw/2023/21',
-            
           ],
         },
         {
@@ -96,7 +100,6 @@ const sidebars = {
             'wroclaw/2020/meetcontentwro-15-connecting-in-the-new-normal',
             'wroclaw/2020/meetcontentwro-14-a-romance-of-many-dimensions-part-2',
             'wroclaw/2020/meetcontentwro-13-a-romance-of-many-dimensions',
-            
           ],
         },
         {
@@ -114,12 +117,7 @@ const sidebars = {
           type: 'category',
           label: '2018',
           collapsed: false,
-          items: [
-            'wroclaw/2018/327',
-            'wroclaw/2018/grzegorz-kossobudzki-3',
-           
-            
-          ],
+          items: ['wroclaw/2018/327', 'wroclaw/2018/grzegorz-kossobudzki-3'],
         },
         {
           type: 'category',
@@ -128,7 +126,7 @@ const sidebars = {
             'wroclaw/2018/grzegorz-kossobudzki-2',
             'wroclaw/2018/grzegorz-kossobudzki',
             'wroclaw/2018/meetcontentwro-7',
-            'wroclaw/2017/402'
+            'wroclaw/2017/402',
           ],
         },
       ],
