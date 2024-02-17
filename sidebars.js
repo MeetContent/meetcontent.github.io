@@ -83,6 +83,14 @@ const sidebars = {
       items: [
         {
           type: 'category',
+          label: '2024',
+          collapsed: false,
+          items: [
+            'wroclaw/2024/25',
+          ],
+        },
+        {
+          type: 'category',
           label: '2023',
           collapsed: false,
           items: [

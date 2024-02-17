@@ -465,4 +465,20 @@ export const allSpeakers: SpeakerProps[] = [
       </>
     ),
   },
+  {
+    name: 'Kacper Tomaszewski',
+    bio: (
+      <>
+        Kacper Tomaszewski is a Senior Graphic & UI/UX Designer working at CodeTwo in Jelenia Góra for almost 10 years. When he’s not designing graphics, you can find him playing high-level basketball in Jelenia Góra or recording rap albums.
+      </>
+    ),
+  },
+  {
+    name: 'Michał Królewicz',
+    bio: (
+      <>
+        Michał Królewicz is a Marketing Manager and the first “formal” Technical Writer at CodeTwo, working in Wroclaw. A trail running and rock climbing enthusiast – you can find him climbing or running 100 km+ races all over the world.
+      </>
+    ),
+  },
 ];
