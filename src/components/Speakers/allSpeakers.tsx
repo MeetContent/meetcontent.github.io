@@ -481,4 +481,23 @@ export const allSpeakers: SpeakerProps[] = [
       </>
     ),
   },
+  {
+    name: 'Monika Mrozek',
+    bio: (
+      <>
+        A Lead Technical Writer and team manager, who is always keen on trying new things in technical communication.
+Most recently, a huge evangelist of using the Product Management perspective on docs, life and beyond.
+
+      </>
+    ),
+  },
+  {
+    name: 'Paweł Martin',
+    bio: (
+      <>
+        A Tech Writer for the hermetic Internal Tech Comms team who loves large repositories, cyberpunk, rock music, skateboards, and kimchi.
+
+      </>
+    ),
+  },
 ];
