@@ -86,6 +86,7 @@ const sidebars = {
           label: '2024',
           collapsed: false,
           items: [
+            'wroclaw/2024/27',
             'wroclaw/2024/26',
             'wroclaw/2024/25',
           ],
