@@ -1,8 +1,7 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const githubLink = 'https://github.com/MeetContent/meetcontent.github.io';
 const organizationName = 'MeetContent';
 const slackLink =
@@ -13,7 +12,10 @@ const facebookLink = 'https://www.facebook.com/meetcontentcommunity';
 function sortSidebarItemsByDate(items, idsWithDates) {
   const result = items.map((item) => {
     if (item.type === 'category') {
-      return { ...item, items: sortSidebarItemsByDate(item.items) };
+      return {
+        ...item,
+        items: sortSidebarItemsByDate(item.items, idsWithDates),
+      };
     }
     return item;
   });
@@ -41,7 +43,7 @@ async function sidebarItemsGenerator({
   return sortSidebarItemsByDate(sidebarItems, idsWithDates);
 }
 
-function getMenu(id, name) {
+function getMenu(id: string, name: string) {
   if (id == 'iberia') {
     return {
       label: name,
@@ -66,8 +68,7 @@ function getMenu(id, name) {
         },
       ],
     };
-  }
-  else {
+  } else {
     return {
       label: name,
       position: 'left',
@@ -92,8 +93,7 @@ function getMenu(id, name) {
   }
 }
 
-/** @type {import('@docusaurus/types').Config} */
-const config = {
+const config: Config = {
   title: organizationName,
   tagline: 'Your content meetups',
   favicon: 'img/favicon.ico',
@@ -124,7 +124,7 @@ const config = {
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           path: 'events',
           routeBasePath: 'events',
@@ -146,65 +146,63 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      } satisfies Preset.Options,
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      // Replace with your project's social card
-      image: 'img/logo_transparent_blue_400.png',
-      colorMode: {
-        defaultMode: 'light',
-        disableSwitch: true,
-        respectPrefersColorScheme: false,
+  themeConfig: {
+    // Replace with your project's social card
+    image: 'img/logo_transparent_blue_400.png',
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
+    navbar: {
+      style: 'primary',
+      title: organizationName,
+      logo: {
+        alt: 'MeetContent Logo',
+        src: 'img/meet-content-white.png',
+        srcDark: 'img/meet-content-white.png',
       },
-      navbar: {
-        style: 'primary',
-        title: organizationName,
-        logo: {
-          alt: 'MeetContent Logo',
-          src: 'img/meet-content-white.png',
-          srcDark: 'img/meet-content-white.png',
+      items: [
+        getMenu('krakow', 'Kraków') as any,
+        getMenu('wroclaw', 'Wrocław') as any,
+        getMenu('iberia', 'Iberia') as any,
+      ],
+    },
+    footer: {
+      style: 'light',
+      links: [
+        {
+          label: 'Facebook',
+          href: 'https://www.facebook.com/meetcontentcommunity/',
         },
-        items: [
-          getMenu('krakow', 'Kraków'),
-          getMenu('wroclaw', 'Wrocław'),
-          getMenu('iberia', 'Iberia'),
-        ],
-      },
-      footer: {
-        style: 'light',
-        links: [
-          {
-            label: 'Facebook',
-            href: 'https://www.facebook.com/meetcontentcommunity/',
-          },
-          {
-            label: 'Slack',
-            href: slackLink,
-          },
-          {
-            label: 'LinkedIn (KRK, WRO)',
-            href: 'https://www.linkedin.com/company/17989901/',
-          },
-          {
-            label: 'LinkedIn (Iberia)',
-            href: 'https://www.linkedin.com/company/100016156/',
-          },
-          {
-            label: 'GitHub',
-            href: githubLink,
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} by ${organizationName}`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+        {
+          label: 'Slack',
+          href: slackLink,
+        },
+        {
+          label: 'LinkedIn (KRK, WRO)',
+          href: 'https://www.linkedin.com/company/17989901/',
+        },
+        {
+          label: 'LinkedIn (Iberia)',
+          href: 'https://www.linkedin.com/company/100016156/',
+        },
+        {
+          label: 'GitHub',
+          href: githubLink,
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} by ${organizationName}`,
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  } satisfies Preset.ThemeConfig,
   customFields: {
     slackLink,
     linkedInIberia,
@@ -248,13 +246,14 @@ const config = {
          */
         path: './glossary-iberia',
         blogSidebarTitle: 'Glosario',
-        blogSidebarCount: 'ALL',  
+        blogSidebarCount: 'ALL',
         blogTitle: 'Glosario',
-        blogDescription: 'Términos del campo de la Redacción y Comunicación Técnica',
+        blogDescription:
+          'Términos del campo de la Redacción y Comunicación Técnica',
         showReadingTime: false,
       },
     ],
   ],
 };
 
-module.exports = config;
+export default config;
