@@ -170,6 +170,10 @@ const config: Config = {
         getMenu('krakow', 'Kraków') as any,
         getMenu('wroclaw', 'Wrocław') as any,
         getMenu('iberia', 'Iberia') as any,
+        {
+          label: 'Full-day event!',
+          to: '/full-day',
+        },
       ],
     },
     footer: {

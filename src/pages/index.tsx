@@ -6,6 +6,7 @@ import styles from './index.module.css';
 import TheStageCanBeYours from '../components/TheStageCanBeYours/TheStageCanBeYours';
 import LoveToTalk from '../components/LoveToTalk/LoveToTalk';
 import Divisions from '../components/Divisions/Divisions';
+import FullDayLink from '../components/FullDayLink';
 
 const description = 'Meetups for technical content professionals';
 
@@ -258,6 +259,7 @@ export default function Home(): JSX.Element {
     >
       <HomepageHeader />
       <main>
+        <FullDayLink/>
         <Divisions />
         <TheStageCanBeYours />
         <LoveToTalk />
