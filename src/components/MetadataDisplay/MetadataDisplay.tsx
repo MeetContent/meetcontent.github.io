@@ -29,7 +29,7 @@ export default function MetadataDisplay() {
         <div className={styles.title}>
           MeetContent {division} #{meetup_number}
         </div>
-        <div>Organizado por {speakers?.join(', ')}</div>
+        <div>Con la participación de {speakers?.join(', ')}</div>
         <div className={styles.timeAndPlace}>
           <div>{location}</div>
           <strong><time dateTime={date}>
