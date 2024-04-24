@@ -366,6 +366,14 @@ export const allSpeakers: SpeakerProps[] = [
     ),
   },
   {
+    name: 'David García',
+    bio: (
+      <>
+        Redactor técnico freelance con una sólida experiencia en desarrollo de software. Me apasiona ayudar a las empresas a crear productos fáciles de desarrollar combinando API, SDK y documentación. Mi objetivo es capacitar a los desarrolladores proporcionándoles las herramientas y la documentación adecuadas para crear mejor software.
+      </>
+    ),
+  },
+  {
     name: 'Daniel Barrio Fierro',
     bio: (
       <>
