@@ -171,7 +171,7 @@ const config: Config = {
         getMenu('wroclaw', 'Wrocław') as any,
         getMenu('iberia', 'Iberia') as any,
         {
-          label: 'Full-day event!',
+          label: '#ContentDay',
           to: '/full-day',
         },
       ],

@@ -42,7 +42,7 @@ export default function FullDayLink() {
           left: `calc(50% - (${buttonSize.width}px / 2))`,
         }}
       >
-        Check out a full day event
+        Join #ContentDay!
       </Link>
     </div>
   );
