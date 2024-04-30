@@ -508,4 +508,15 @@ Most recently, a huge evangelist of using the Product Management perspective on 
       </>
     ),
   },
+  {
+    name: 'Kasia Gaweł',
+    bio: (
+      <>
+        Kasia is a senior product manager who started her career in IT as a technical writer. She has a background in linguistics: 
+        after MA, she spent a couple of years working at uni as a lecturer and then drifted towards IT. 
+        She’s been working in enterprise product management for the past 6 years. In her free time, she cultivates her home jungle, 
+        shreds the slopes in winter, and attends music festivals in summer.
+      </>
+    )
+  }
 ];
