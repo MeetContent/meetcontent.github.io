@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeet_content=self.webpackChunkmeet_content||[]).push([[8833],{6214:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/wroclaw","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

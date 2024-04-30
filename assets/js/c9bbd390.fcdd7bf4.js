@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmeet_content=self.webpackChunkmeet_content||[]).push([[4566],{815:e=>{e.exports=JSON.parse('{"title":"Glosario","items":[{"title":"Comunicaci\xf3n T\xe9cnica","permalink":"/iberia/glosario/comunicacion-tecnica"},{"title":"Redacci\xf3n T\xe9cnica","permalink":"/iberia/glosario/redaccion-tecnica"}]}')}}]);

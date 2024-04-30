@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmeet_content=self.webpackChunkmeet_content||[]).push([[6100],{9750:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/krakow","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
