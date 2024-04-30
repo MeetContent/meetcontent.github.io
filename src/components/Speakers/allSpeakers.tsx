@@ -518,5 +518,16 @@ Most recently, a huge evangelist of using the Product Management perspective on 
         shreds the slopes in winter, and attends music festivals in summer.
       </>
     )
-  }
+  },
+  {
+    name: 'Adam Turlej',
+    bio: (
+      <>
+        Adam has worked as a software technical writer for over three and
+        a half years. He first came across technical writing at the Institute of English Studies of the Jagiellonian University,
+        where he learned about DITA. When it comes to creating and managing content, he advocates minimalism and modularization. 
+        He is also a musician. You can listen at soundcloud.com/adamturlej :)
+      </>
+    )
+  },
 ];
