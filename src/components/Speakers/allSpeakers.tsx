@@ -530,4 +530,21 @@ Most recently, a huge evangelist of using the Product Management perspective on 
       </>
     )
   },
+  {
+    name: 'Basia Kardel-Piątkowska',
+    bio: (
+      <>
+        A passionate technical writer focused on creating user-centric, topic-based documentation that is easy to follow. 
+Especially enjoying the international environment and innovative approach when it comes to problem solving. 
+      </>
+    )
+  },
+  {
+    name: 'Maciek Chudański',
+    bio: (
+      <>
+        Lead Visual Designer at Etteplan
+      </>
+    )
+  },
 ];
