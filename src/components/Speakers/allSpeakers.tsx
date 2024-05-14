@@ -543,7 +543,8 @@ Especially enjoying the international environment and innovative approach when i
     name: 'Maciek Chudański',
     bio: (
       <>
-        Lead Visual Designer at Etteplan
+        A visual designer specializing in illustration, animation, and 3D graphics for technical communication. Focused on blending design and technical expertise to create user-friendly documentation.
+
       </>
     )
   },
