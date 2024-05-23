@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeet_content=self.webpackChunkmeet_content||[]).push([[9616],{5205:e=>{e.exports=JSON.parse('{"tags":[{"label":"iberia","permalink":"/blog/tags/iberia","count":1},{"label":"wroclaw","permalink":"/blog/tags/wroclaw","count":3},{"label":"krakow","permalink":"/blog/tags/krakow","count":2}]}')}}]);
