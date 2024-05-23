@@ -16,8 +16,8 @@
     "prettier": "prettier . --write"
   },
   "dependencies": {
-    "@docusaurus/core": "3.2.1",
-    "@docusaurus/preset-classic": "3.2.1",
+    "@docusaurus/core": "3.3.2",
+    "@docusaurus/preset-classic": "3.3.2",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@mdx-js/react": "^3.0.0",
@@ -29,9 +29,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.2.1",
-    "@docusaurus/tsconfig": "3.2.1",
-    "@docusaurus/types": "3.2.1",
+    "@docusaurus/module-type-aliases": "3.3.2",
+    "@docusaurus/tsconfig": "3.3.2",
+    "@docusaurus/types": "3.3.2",
     "@types/react": "^18.2.29",
     "prettier": "^3.0.1",
     "typescript": "~5.2.2"
