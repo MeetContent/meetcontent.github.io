@@ -980,3 +980,8 @@ h6 {
     transform: translate(0, 0);
   }
 }
+
+.inlineSVG {
+  height: 16px;
+  vertical-align: text-bottom;
+}
