@@ -6,7 +6,6 @@ import styles from './index.module.css';
 import TheStageCanBeYours from '../components/TheStageCanBeYours/TheStageCanBeYours';
 import LoveToTalk from '../components/LoveToTalk/LoveToTalk';
 import Divisions from '../components/Divisions/Divisions';
-import FullDayLink from '../components/FullDayLink';
 
 const description = 'Meetups for technical content professionals';
 
@@ -242,7 +241,11 @@ function HomepageHeader() {
         </div>
       </div>
       <div className="container">
-        <img src="/img/mc-logo-blue.svg" alt="MeetContent" className="hero-logo"/>
+        <img
+          src="/img/mc-logo-blue.svg"
+          alt="MeetContent"
+          className="hero-logo"
+        />
         <p className={clsx('hero__subtitle', styles.subTitle)}>{description}</p>
       </div>
     </header>
@@ -259,7 +262,6 @@ export default function Home(): JSX.Element {
     >
       <HomepageHeader />
       <main>
-        <FullDayLink/>
         <Divisions />
         <TheStageCanBeYours />
         <LoveToTalk />
