@@ -548,4 +548,21 @@ Especially enjoying the international environment and innovative approach when i
       </>
     )
   },
+    {
+    name: 'Maciek Chudański',
+    bio: (
+      <>
+        A visual designer specializing in illustration, animation, and 3D graphics for technical communication. Focused on blending design and technical expertise to create user-friendly documentation.
+
+      </>
+    )
+  },
+  {
+    name: 'Anna Józala',
+    bio: (
+      <>
+        An experienced Technical Writer and Product Owner with a unique background and deep fascination in productivity topics. Anna is applying her insights from a teaching career into helping users achieve their goals with clear documentation.
+      </>
+    )
+  },
 ];
