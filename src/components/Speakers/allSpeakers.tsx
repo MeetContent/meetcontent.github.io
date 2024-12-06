@@ -47,15 +47,15 @@ export const allSpeakers: SpeakerProps[] = [
     ),
   },
   {
-    name: 'Tomek Prus',
+    name: 'Tomasz Prus',
     bio: (
       <>
-        Tomek graduated from the Wroclaw University of Technology and currently
-        works as Global Documentation Manager at Unit4. He has developed as a
-        technical communication professional at LG Electronics and Nokia,
-        holding a variety of different positions. His passion for content is
-        coupled with curiosity, interest in technology, and daily operational
-        management. He loves all kinds of sports, especially football.
+        <p>
+        Tomasz Prus is a Senior Content Designer at Atlassian. In his role, Tomasz focuses on creating impactful content that supports various products and services. He is passionate about fostering a culture of ownership, autonomy, and inclusivity. 
+        </p>
+        <p>
+        Outside of work, he is a husband, a father of two, a labrador owner, and an aspiring farmer.
+        </p>
       </>
     ),
   },
