@@ -464,16 +464,6 @@ export const allSpeakers: SpeakerProps[] = [
     bio: <>Everyone who lives and breathes technical content.</>,
   },
   {
-    name: 'Jan Sosna',
-    bio: (
-      <>
-        Jan is currently working as an Information Developer at Heretto. Jan has
-        been creating technical content since 2018: writing, illustrating,
-        making part catalogues and conducting trainings.
-      </>
-    ),
-  },
-  {
     name: 'Kacper Tomaszewski',
     bio: (
       <>
