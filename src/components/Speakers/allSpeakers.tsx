@@ -565,4 +565,12 @@ Especially enjoying the international environment and innovative approach when i
       </>
     )
   },
+  {
+    name: 'Jan Sosna',
+    bio: (
+      <>
+        A Technical Writer at Ocado. Jan believes in learning and sharing knowledge. Over the years, he has explored multiple trades ranging from graphic design to public speaking to motorcycle repairs, and he has always been passionate about giving back.
+      </>
+    )
+  },
 ];

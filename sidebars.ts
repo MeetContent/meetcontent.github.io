@@ -86,6 +86,12 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: 'category',
+          label: '2025',
+          collapsed: false,
+          items: ['wroclaw/2025/31'],
+        },
+        {
+          type: 'category',
           label: '2024',
           collapsed: false,
           items: ['wroclaw/2024/30','wroclaw/2024/29','wroclaw/2024/28','wroclaw/2024/27', 'wroclaw/2024/26', 'wroclaw/2024/25'],
